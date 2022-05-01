@@ -21,7 +21,8 @@ I am a mature Java Backend Developer with extensive experience in analysis, desi
 <a href="#"><img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge"></a>
 <a href="#"><img alt="Javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"></a>
 <a href="#"><img alt="jQuery" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"></a>
-<a href="#"><img alt="JSON" src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white&color=black&labelColor=black"></a>
+<a href="#"><img alt="JSON" src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=black&color=E1E1E1&labelColor=E1E1E1"></a>
+<a href="#"><img alt="Markdown" src="https://img.shields.io/static/v1?logo=Markdown&label=&message=Markdown&color=000000&labelColor=000000&style=for-the-badge"></a>
 
 <a href="#"><img alt="Subversion" src="https://img.shields.io/badge/subversion-809CC9?style=for-the-badge&logo=subversion&logoColor=white"></a>
 <a href="#"><img alt="FileZilla" src="https://img.shields.io/badge/FileZilla-BF0000?style=for-the-badge&logo=filezilla&logoColor=white"></a>
@@ -35,6 +36,7 @@ I am a mature Java Backend Developer with extensive experience in analysis, desi
 <a href="#"><img alt="Android Studio" src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white"></a>
 
 <a href="#"><img alt="Apache Tomcat" src="https://img.shields.io/badge/Apache_Tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black"></a>
+<a href="#"><img alt="JBoss" src="https://img.shields.io/static/v1?logo=redhat&label=&message=JBoss&color=BEC6CD&logoColor=C40000&labelColor=BEC6CD&style=for-the-badge"></a>
 <a href="#"><img alt="Azure DevOps" src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white"></a>
 
 <a href="#"><img alt="Microsoft Excel Macros" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"></a>
@@ -46,16 +48,60 @@ I am a mature Java Backend Developer with extensive experience in analysis, desi
 <a href="#"><img alt="DokuWiki" src="https://img.shields.io/static/v1?logo=DokuWiki&label=&message=DokuWiki&color=008800&labelColor=008800&style=for-the-badge"></a>
 <a href="#"><img alt="I18n, L10n" src="https://img.shields.io/static/v1?logo=&label=%F0%9F%8C%8E&message=I18n,%20L10n&style=for-the-badge"></a>
 <a href="#"><img alt="IBM Websphere Portal" src="https://img.shields.io/static/v1?logo=IBM&label=&message=IBM%20Websphere%20Portal&color=052FAD&labelColor=052FAD&style=for-the-badge"></a>
+<a href="#"><img alt="Javadoc" src="https://img.shields.io/static/v1?logo=java&label=&message=Javadoc&color=427B9C&logoColor=white&labelColor=427B9C&style=for-the-badge"></a>
+<a href="#"><img alt="JPA" src="https://img.shields.io/static/v1?logo=java&label=&message=JPA&color=ED8B00&logoColor=white&labelColor=ED8B00&style=for-the-badge"></a>
+<a href="#"><img alt="JSF" src="https://img.shields.io/static/v1?logo=java&label=&message=JSF&color=B3782B&logoColor=white&labelColor=B3782B&style=for-the-badge"></a>
+<a href="#"><img alt="JSP" src="https://img.shields.io/static/v1?logo=java&label=&message=JSP&color=74A33B&logoColor=white&labelColor=74A33B&style=for-the-badge"></a>
+<a href="#"><img alt="JSTL" src="https://img.shields.io/static/v1?logo=java&label=&message=JSTL&color=&logoColor=white&labelColor=&style=for-the-badge"></a>
+<a href="#"><img alt="JUnit" src="https://img.shields.io/static/v1?logo=&label=&message=JUnit&color=CC0000&logoColor=white&labelColor=&style=for-the-badge"></a>
+<a href="#"><img alt="Kanban" src="https://img.shields.io/static/v1?logo=&label=&message=Kanban&style=for-the-badge"></a>
+<a href="#"><img alt="Putty" src="https://img.shields.io/static/v1?logo=&label=%F0%9F%96%A5%EF%B8%8F&message=Putty&color=FFFF00&logoColor=white&labelColor=FFFF00&style=for-the-badge"></a>
+<a href="#"><img alt="RichFaces" src="https://img.shields.io/static/v1?logo=&label=%F0%9F%8E%AD&message=RichFaces&color=8FA9B7&logoColor=white&labelColor=8FA9B7&style=for-the-badge"></a>
+<a href="#"><img alt="SOAP" src="https://img.shields.io/static/v1?logo=&label=&message=SOAP&color=4B4B4B&logoColor=white&labelColor=4B4B4B&style=for-the-badge"></a>
+<a href="#"><img alt="SQL" src="https://img.shields.io/static/v1?logo=&label=%F0%9F%9B%A2&message=SQL&color=lightgray&logoColor=white&labelColor=lightgray&style=for-the-badge"></a>
+<a href="#"><img alt="SSH" src="https://img.shields.io/static/v1?logo=windowsterminal&label=&message=SSH&color=E1E1E1&logoColor=black&labelColor=E1E1E1&style=for-the-badge"></a>
+<a href="#"><img alt="WinSCP" src="https://img.shields.io/static/v1?logo=&label=%F0%9F%94%92&message=WinSCP&color=2D90DE&logoColor=white&labelColor=2D90DE&style=for-the-badge"></a>
+<a href="#"><img alt="XML" src="https://img.shields.io/static/v1?logo=&label=%3C/%3E&message=XML&color=217346&logoColor=white&labelColor=217346&style=for-the-badge"></a>
 
 
 
+## Education
 
+- 🎓 **Systems Engineer**\
+📆 2007\
+📍 **University of Pamplona** - Pamplona, Colombia
 
-
-## 🌱 I’m currently learning:
+### 🌱 Currently learning
 
 <a href="#"><img alt="Java 8" src="https://img.shields.io/static/v1?logo=java&label=&message=Java%208&color=ED8B00&logoColor=white&labelColor=ED8B00&style=for-the-badge"></a>
 <a href="#"><img alt="AWS" src="https://img.shields.io/static/v1?logo=amazonAWS&label=&message=AWS&color=232F3E&labelColor=232F3E&style=for-the-badge"></a>
+
+
+
+## Experience
+
+
+- 💼 **Senior Software Developer** at **EPAM Systems Colombia S.A.S.**\
+📆 2021\
+📍 (Remote) Medellín, Colombia\
+<a href="#"><img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white"></a>
+
+---
+
+- 💼 **Analyst Developer** at **MVM Ingeniería de Software S.A.S.**\
+📆 2014 - 2021\
+📍 Medellín, Colombia\
+<a href="#"><img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white"></a>
+<a href="#"><img alt="Oracle" src="https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=white"></a>
+<a href="#"><img alt="Eclipse" src="https://img.shields.io/badge/Eclipse-2C2255?logo=eclipse&logoColor=white"></a>
+<a href="#"><img alt="Apache Tomcat" src="https://img.shields.io/badge/Apache_Tomcat-F8DC75?logo=apachetomcat&logoColor=black"></a>
+<a href="#"><img alt="Microsoft Excel Macros" src="https://img.shields.io/badge/Microsoft_Excel-217346?logo=microsoft-excel&logoColor=white"></a>
+<a href="#"><img alt="Active Directory" src="https://img.shields.io/static/v1?logo=windows&label=&message=Active%20Directory&color=blue&logoColor=white&labelColor=blue"></a>
+<a href="#"><img alt="Agile" src="https://img.shields.io/static/v1?logo=Agile&label=&message=Agile&color=4285F4&logoColor=white&labelColor=4285F4"></a>
+<a href="#"><img alt="DokuWiki" src="https://img.shields.io/static/v1?logo=DokuWiki&label=&message=DokuWiki&color=008800&labelColor=008800"></a>
+
+---
+
 
 
 <!--
