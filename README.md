@@ -104,15 +104,23 @@ I am a mature Java Backend Developer with extensive experience in analysis, desi
 📍 Medellín, Colombia\
 <a href="#"><img alt="Active Directory" src="https://img.shields.io/static/v1?logo=windows&label=&message=Active%20Directory&color=blue&logoColor=white&labelColor=blue"></a>
 <a href="#"><img alt="Apache Tomcat" src="https://img.shields.io/badge/Apache_Tomcat-F8DC75?logo=apachetomcat&logoColor=black"></a>
+<a href="#"><img alt="Azure DevOps" src="https://img.shields.io/badge/Azure_DevOps-0078D7?logo=azuredevops&logoColor=white"></a>
+<a href="#"><img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white"></a>
 <a href="#"><img alt="DokuWiki" src="https://img.shields.io/static/v1?label=&message=DokuWiki&color=008800"></a>
 <a href="#"><img alt="Eclipse" src="https://img.shields.io/badge/Eclipse-2C2255?logo=eclipse&logoColor=white"></a>
+<a href="#"><img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white"></a>
 <a href="#"><img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white"></a>
+<a href="#"><img alt="Javascript" src="https://img.shields.io/badge/JavaScript-323330?logo=javascript&logoColor=F7DF1E"></a>
 <a href="#"><img alt="JBoss" src="https://img.shields.io/static/v1?label=&message=JBoss&color=C40000"></a>
 <a href="#"><img alt="Kanban" src="https://img.shields.io/static/v1?label=&message=Kanban&color=FFFFD4"></a>
+<a href="#"><img alt="Markdown" src="https://img.shields.io/static/v1?logo=Markdown&label=&message=Markdown&color=000000"></a>
 <a href="#"><img alt="Microsoft Excel Macros" src="https://img.shields.io/badge/Microsoft_Excel-217346?logo=microsoft-excel&logoColor=white"></a>
 <a href="#"><img alt="Oracle" src="https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=white"></a>
 <a href="#"><img alt="Scrum" src="https://img.shields.io/static/v1?label=&message=Scrum&color=4285F4"></a>
 <a href="#"><img alt="SQL Server" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?logo=microsoft-sql-server&logoColor=white"></a>
+<a href="#"><img alt="SQL" src="https://img.shields.io/static/v1?label=&message=SQL&color=lightgray"></a>
+<a href="#"><img alt="VirtualBox" src="https://img.shields.io/badge/virtualbox-183A61?logo=virtualbox&logoColor=white"></a>
+<a href="#"><img alt="XML" src="https://img.shields.io/static/v1?label=%3C/%3E&message=XML&color=217346&labelColor=217346"></a>
 
 ---
 
@@ -131,12 +139,15 @@ I am a mature Java Backend Developer with extensive experience in analysis, desi
 📍 Medellín, Colombia\
 <a href="#"><img alt="AJAX" src="https://img.shields.io/static/v1?label=&message=AJAX&color=747C60"></a>
 <a href="#"><img alt="Apache Tomcat" src="https://img.shields.io/badge/Apache_Tomcat-F8DC75?logo=apachetomcat&logoColor=black"></a>
+<a href="#"><img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white"></a>
 <a href="#"><img alt="Eclipse" src="https://img.shields.io/badge/Eclipse-2C2255?logo=eclipse&logoColor=white"></a>
 <a href="#"><img alt="Hibernate" src="https://img.shields.io/badge/Hibernate-59666C?logo=Hibernate&logoColor=white"></a>
+<a href="#"><img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white"></a>
 <a href="#"><img alt="I18n, L10n" src="https://img.shields.io/static/v1?label=&message=I18n,%20L10n&color=99CCCC"></a>
 <a href="#"><img alt="IBM Websphere Portal" src="https://img.shields.io/static/v1?logo=IBM&label=&message=IBM%20Websphere%20Portal&color=052FAD&labelColor=052FAD"></a>
 <a href="#"><img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white"></a>
 <a href="#"><img alt="Javadoc" src="https://img.shields.io/static/v1?label=&message=Javadoc&color=427B9C"></a>
+<a href="#"><img alt="Javascript" src="https://img.shields.io/badge/JavaScript-323330?logo=javascript&logoColor=F7DF1E"></a>
 <a href="#"><img alt="JBoss" src="https://img.shields.io/static/v1?label=&message=JBoss&color=C40000"></a>
 <a href="#"><img alt="JPA" src="https://img.shields.io/static/v1?label=&message=JPA&color=4298B8"></a>
 <a href="#"><img alt="JSF" src="https://img.shields.io/static/v1?label=&message=JSF&color=B3782B"></a>
