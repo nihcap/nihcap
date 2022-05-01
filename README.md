@@ -46,7 +46,7 @@ I am a mature Java Backend Developer with extensive experience in analysis, desi
 <a href="#"><img alt="Agile" src="https://img.shields.io/static/v1?label=Agile&message=Scrum,%20Kanban&color=4285F4&labelColor=77A8F7&style=for-the-badge"></a>
 <a href="#"><img alt="AJAX" src="https://img.shields.io/static/v1?label=&message=AJAX&color=747C60&labelColor=747C60&style=for-the-badge"></a>
 <a href="#"><img alt="DokuWiki" src="https://img.shields.io/static/v1?label=&message=DokuWiki&color=008800&labelColor=008800&style=for-the-badge"></a>
-<a href="#"><img alt="I18n, L10n" src="https://img.shields.io/static/v1?label=%F0%9F%8C%8E&message=I18n,%20L10n&style=for-the-badge"></a>
+<a href="#"><img alt="I18n, L10n" src="https://img.shields.io/static/v1?label=%F0%9F%8C%8E&message=I18n,%20L10n&color=99CCCC&labelColor=99CCCC&style=for-the-badge"></a>
 <a href="#"><img alt="IBM Websphere Portal" src="https://img.shields.io/static/v1?logo=IBM&label=&message=IBM%20Websphere%20Portal&color=052FAD&style=for-the-badge"></a>
 <a href="#"><img alt="Javadoc" src="https://img.shields.io/static/v1?label=&message=Javadoc&color=427B9C&labelColor=427B9C&style=for-the-badge"></a>
 <a href="#"><img alt="JPA" src="https://img.shields.io/static/v1?label=&message=JPA&color=4298B8&labelColor=4298B8&style=for-the-badge"></a>
@@ -67,18 +67,38 @@ I am a mature Java Backend Developer with extensive experience in analysis, desi
 
 ## Education
 
+### 🎓 Formal Education
+
 - 🎓 **Systems Engineer**\
 📆 2007\
 📍 **University of Pamplona** - Pamplona, Colombia
 
+---
+
+### 🥇 Certifications
+
+- 🥇 **Data Analytics with Power BI**\
+📆 2021\
+🏛 **CESDE / Comfama**
+
+- 🥇 **Oracle Certified Associate, Java SE 7 Programmer**\
+📆 2015\
+🏛️ **Global Knowledge / Oracle**
+
+- 🥇 **Certified Scrum Developer**\
+📆 2015\
+🏛️ **Scrum Alliance**
+
+---
+
 ### 🌱 Currently learning
 
-<a href="#"><img alt="Java 8" src="https://img.shields.io/static/v1?logo=java&label=&message=Java%208&color=ED8B00&logoColor=white&labelColor=ED8B00&style=for-the-badge"></a>
-<a href="#"><img alt="AWS" src="https://img.shields.io/static/v1?logo=amazonAWS&label=&message=AWS&color=232F3E&labelColor=232F3E&style=for-the-badge"></a>
+* <a href="#"><img alt="Java 8" src="https://img.shields.io/static/v1?logo=java&label=&message=Java%208&color=ED8B00&logoColor=white&labelColor=ED8B00&style=for-the-badge"></a>
+* <a href="#"><img alt="AWS" src="https://img.shields.io/static/v1?logo=amazonAWS&label=&message=AWS&color=232F3E&labelColor=232F3E&style=for-the-badge"></a>
 
 
 
-## Experience
+## Work Experience
 
 
 - 💼 **Senior Software Developer** at **EPAM Systems Colombia S.A.S.**\
@@ -122,7 +142,7 @@ I am a mature Java Backend Developer with extensive experience in analysis, desi
 <a href="#"><img alt="Apache Tomcat" src="https://img.shields.io/badge/Apache_Tomcat-F8DC75?logo=apachetomcat&logoColor=black"></a>
 <a href="#"><img alt="Eclipse" src="https://img.shields.io/badge/Eclipse-2C2255?logo=eclipse&logoColor=white"></a>
 <a href="#"><img alt="Hibernate" src="https://img.shields.io/badge/Hibernate-59666C?logo=Hibernate&logoColor=white"></a>
-<a href="#"><img alt="I18n, L10n" src="https://img.shields.io/static/v1?label=&message=I18n,%20L10n"></a>
+<a href="#"><img alt="I18n, L10n" src="https://img.shields.io/static/v1?label=&message=I18n,%20L10n&color=99CCCC"></a>
 <a href="#"><img alt="IBM Websphere Portal" src="https://img.shields.io/static/v1?logo=IBM&label=&message=IBM%20Websphere%20Portal&color=052FAD&labelColor=052FAD"></a>
 <a href="#"><img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white"></a>
 <a href="#"><img alt="Javadoc" src="https://img.shields.io/static/v1?label=&message=Javadoc&color=427B9C"></a>
