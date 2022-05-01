@@ -62,7 +62,7 @@ I am a mature Java Backend Developer with extensive experience in analysis, desi
 
 - 🎓 **Systems Engineer**\
 📆 2007\
-📍 **University of Pamplona** - Pamplona, Colombia
+🏛️ **University of Pamplona** - Pamplona, Colombia
 
 ---
 
