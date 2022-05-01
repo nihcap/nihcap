@@ -16,7 +16,6 @@ I am a mature Java Backend Developer with extensive experience in analysis, desi
 <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&color=4479A1&logoColor=white"></a>
 <a href="#"><img alt="SQL Server" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"></a>
 <a href="#"><img alt="Active Directory" src="https://img.shields.io/static/v1?logo=windows&label=&message=Active%20Directory&color=blue&logoColor=white&style=for-the-badge"></a>
-<a href="#"><img alt="Scrum" src="https://img.shields.io/static/v1?label=&message=Scrum&color=4285F4&style=for-the-badge"></a>
 <a href="#"><img alt="AJAX" src="https://img.shields.io/static/v1?label=&message=AJAX&color=747C60&labelColor=747C60&style=for-the-badge"></a>
 <a href="#"><img alt="Android Development (Java)" src="https://img.shields.io/badge/Android-83B81A?style=for-the-badge&logo=android&logoColor=white"></a>
 <a href="#"><img alt="Android Studio" src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white"></a>
@@ -47,6 +46,7 @@ I am a mature Java Backend Developer with extensive experience in analysis, desi
 <a href="#"><img alt="Power BI" src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=black"></a>
 <a href="#"><img alt="Putty" src="https://img.shields.io/static/v1?label=%F0%9F%96%A5%EF%B8%8F&message=Putty&color=FFFF00&labelColor=FFFF00&style=for-the-badge"></a>
 <a href="#"><img alt="RichFaces" src="https://img.shields.io/static/v1?label=%F0%9F%8E%AD&message=RichFaces&color=8FA9B7&labelColor=8FA9B7&style=for-the-badge"></a>
+<a href="#"><img alt="Scrum" src="https://img.shields.io/static/v1?label=&message=Scrum&color=4285F4&style=for-the-badge"></a>
 <a href="#"><img alt="SOAP" src="https://img.shields.io/static/v1?label=&message=SOAP&color=4B4B4B&labelColor=4B4B4B&style=for-the-badge"></a>
 <a href="#"><img alt="SQL" src="https://img.shields.io/static/v1?label=&message=SQL&color=lightgray&labelColor=lightgray&style=for-the-badge"></a>
 <a href="#"><img alt="SSH" src="https://img.shields.io/static/v1?logo=windowsterminal&label=&message=SSH&color=E1E1E1&logoColor=black&style=for-the-badge"></a>
@@ -103,7 +103,6 @@ I am a mature Java Backend Developer with extensive experience in analysis, desi
 📆 2014 - 2021\
 📍 Medellín, Colombia\
 <a href="#"><img alt="Active Directory" src="https://img.shields.io/static/v1?logo=windows&label=&message=Active%20Directory&color=blue&logoColor=white&labelColor=blue"></a>
-<a href="#"><img alt="Scrum" src="https://img.shields.io/static/v1?label=&message=Scrum&color=4285F4"></a>
 <a href="#"><img alt="Apache Tomcat" src="https://img.shields.io/badge/Apache_Tomcat-F8DC75?logo=apachetomcat&logoColor=black"></a>
 <a href="#"><img alt="DokuWiki" src="https://img.shields.io/static/v1?label=&message=DokuWiki&color=008800"></a>
 <a href="#"><img alt="Eclipse" src="https://img.shields.io/badge/Eclipse-2C2255?logo=eclipse&logoColor=white"></a>
@@ -112,6 +111,7 @@ I am a mature Java Backend Developer with extensive experience in analysis, desi
 <a href="#"><img alt="Kanban" src="https://img.shields.io/static/v1?label=&message=Kanban&color=FFFFD4"></a>
 <a href="#"><img alt="Microsoft Excel Macros" src="https://img.shields.io/badge/Microsoft_Excel-217346?logo=microsoft-excel&logoColor=white"></a>
 <a href="#"><img alt="Oracle" src="https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=white"></a>
+<a href="#"><img alt="Scrum" src="https://img.shields.io/static/v1?label=&message=Scrum&color=4285F4"></a>
 <a href="#"><img alt="SQL Server" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?logo=microsoft-sql-server&logoColor=white"></a>
 
 ---
@@ -129,7 +129,6 @@ I am a mature Java Backend Developer with extensive experience in analysis, desi
 - 💼 **Project Engineer** at **Pragma S.A.**\
 📆 2011 - 2012\
 📍 Medellín, Colombia\
-<a href="#"><img alt="Agile" src="https://img.shields.io/static/v1?label=&message=Agile&color=4285F4"></a>
 <a href="#"><img alt="AJAX" src="https://img.shields.io/static/v1?label=&message=AJAX&color=747C60"></a>
 <a href="#"><img alt="Apache Tomcat" src="https://img.shields.io/badge/Apache_Tomcat-F8DC75?logo=apachetomcat&logoColor=black"></a>
 <a href="#"><img alt="Eclipse" src="https://img.shields.io/badge/Eclipse-2C2255?logo=eclipse&logoColor=white"></a>
@@ -148,6 +147,7 @@ I am a mature Java Backend Developer with extensive experience in analysis, desi
 <a href="#"><img alt="Oracle" src="https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=white"></a>
 <a href="#"><img alt="Putty" src="https://img.shields.io/static/v1?label=%F0%9F%96%A5%EF%B8%8F&message=Putty&color=FFFF00&labelColor=FFFF00"></a>
 <a href="#"><img alt="RichFaces" src="https://img.shields.io/static/v1?label=%F0%9F%8E%AD&message=RichFaces&color=8FA9B7&labelColor=8FA9B7"></a>
+<a href="#"><img alt="Scrum" src="https://img.shields.io/static/v1?label=&message=Scrum&color=4285F4"></a>
 <a href="#"><img alt="Spring Framework" src="https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=white"></a>
 <a href="#"><img alt="SQL" src="https://img.shields.io/static/v1?label=&message=SQL&color=lightgray"></a>
 <a href="#"><img alt="SSH" src="https://img.shields.io/static/v1?logo=windowsterminal&label=&message=SSH&color=E1E1E1&logoColor=black"></a>
