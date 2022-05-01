@@ -36,29 +36,29 @@ I am a mature Java Backend Developer with extensive experience in analysis, desi
 <a href="#"><img alt="Android Studio" src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white"></a>
 
 <a href="#"><img alt="Apache Tomcat" src="https://img.shields.io/badge/Apache_Tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black"></a>
-<a href="#"><img alt="JBoss" src="https://img.shields.io/static/v1?logo=redhat&label=&message=JBoss&color=BEC6CD&logoColor=C40000&labelColor=BEC6CD&style=for-the-badge"></a>
+<a href="#"><img alt="JBoss" src="https://img.shields.io/static/v1?logo=&label=&message=JBoss&color=C40000&logoColor=&labelColor=C40000&style=for-the-badge"></a>
 <a href="#"><img alt="Azure DevOps" src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white"></a>
 
 <a href="#"><img alt="Microsoft Excel Macros" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"></a>
 <a href="#"><img alt="Power BI" src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=black"></a>
 
 <a href="#"><img alt="Active Directory" src="https://img.shields.io/static/v1?logo=windows&label=&message=Active%20Directory&color=blue&logoColor=white&labelColor=blue&style=for-the-badge"></a>
-<a href="#"><img alt="Agile" src="https://img.shields.io/static/v1?logo=Agile&label=Agile&message=Scrum,%20Kanban&color=4285F4&logoColor=white&labelColor=77A8F7&style=for-the-badge"></a>
-<a href="#"><img alt="AJAX" src="https://img.shields.io/static/v1?logo=AJAX&label=&message=AJAX&color=747C60&logoColor=white&labelColor=747C60&style=for-the-badge"></a>
-<a href="#"><img alt="DokuWiki" src="https://img.shields.io/static/v1?logo=DokuWiki&label=&message=DokuWiki&color=008800&labelColor=008800&style=for-the-badge"></a>
+<a href="#"><img alt="Agile" src="https://img.shields.io/static/v1?logo=&label=Agile&message=Scrum,%20Kanban&color=4285F4&logoColor=white&labelColor=77A8F7&style=for-the-badge"></a>
+<a href="#"><img alt="AJAX" src="https://img.shields.io/static/v1?logo=&label=&message=AJAX&color=747C60&logoColor=white&labelColor=747C60&style=for-the-badge"></a>
+<a href="#"><img alt="DokuWiki" src="https://img.shields.io/static/v1?logo=&label=&message=DokuWiki&color=008800&labelColor=008800&style=for-the-badge"></a>
 <a href="#"><img alt="I18n, L10n" src="https://img.shields.io/static/v1?logo=&label=%F0%9F%8C%8E&message=I18n,%20L10n&style=for-the-badge"></a>
 <a href="#"><img alt="IBM Websphere Portal" src="https://img.shields.io/static/v1?logo=IBM&label=&message=IBM%20Websphere%20Portal&color=052FAD&labelColor=052FAD&style=for-the-badge"></a>
-<a href="#"><img alt="Javadoc" src="https://img.shields.io/static/v1?logo=java&label=&message=Javadoc&color=427B9C&logoColor=white&labelColor=427B9C&style=for-the-badge"></a>
-<a href="#"><img alt="JPA" src="https://img.shields.io/static/v1?logo=java&label=&message=JPA&color=ED8B00&logoColor=white&labelColor=ED8B00&style=for-the-badge"></a>
-<a href="#"><img alt="JSF" src="https://img.shields.io/static/v1?logo=java&label=&message=JSF&color=B3782B&logoColor=white&labelColor=B3782B&style=for-the-badge"></a>
-<a href="#"><img alt="JSP" src="https://img.shields.io/static/v1?logo=java&label=&message=JSP&color=74A33B&logoColor=white&labelColor=74A33B&style=for-the-badge"></a>
-<a href="#"><img alt="JSTL" src="https://img.shields.io/static/v1?logo=java&label=&message=JSTL&color=&logoColor=white&labelColor=&style=for-the-badge"></a>
+<a href="#"><img alt="Javadoc" src="https://img.shields.io/static/v1?logo=&label=&message=Javadoc&color=427B9C&logoColor=white&labelColor=427B9C&style=for-the-badge"></a>
+<a href="#"><img alt="JPA" src="https://img.shields.io/static/v1?logo=&label=&message=JPA&color=4298B8&logoColor=white&labelColor=4298B8&style=for-the-badge"></a>
+<a href="#"><img alt="JSF" src="https://img.shields.io/static/v1?logo=&label=&message=JSF&color=B3782B&logoColor=white&labelColor=B3782B&style=for-the-badge"></a>
+<a href="#"><img alt="JSP" src="https://img.shields.io/static/v1?logo=&label=&message=JSP&color=74A33B&logoColor=white&labelColor=74A33B&style=for-the-badge"></a>
+<a href="#"><img alt="JSTL" src="https://img.shields.io/static/v1?logo=&label=&message=JSTL&color=&logoColor=white&labelColor=&style=for-the-badge"></a>
 <a href="#"><img alt="JUnit" src="https://img.shields.io/static/v1?logo=&label=&message=JUnit&color=CC0000&logoColor=white&labelColor=&style=for-the-badge"></a>
-<a href="#"><img alt="Kanban" src="https://img.shields.io/static/v1?logo=&label=&message=Kanban&style=for-the-badge"></a>
+<a href="#"><img alt="Kanban" src="https://img.shields.io/static/v1?logo=&label=&message=Kanban&color=FFFFD4&logoColor=white&labelColor=FFFFD4&style=for-the-badge"></a>
 <a href="#"><img alt="Putty" src="https://img.shields.io/static/v1?logo=&label=%F0%9F%96%A5%EF%B8%8F&message=Putty&color=FFFF00&logoColor=white&labelColor=FFFF00&style=for-the-badge"></a>
 <a href="#"><img alt="RichFaces" src="https://img.shields.io/static/v1?logo=&label=%F0%9F%8E%AD&message=RichFaces&color=8FA9B7&logoColor=white&labelColor=8FA9B7&style=for-the-badge"></a>
 <a href="#"><img alt="SOAP" src="https://img.shields.io/static/v1?logo=&label=&message=SOAP&color=4B4B4B&logoColor=white&labelColor=4B4B4B&style=for-the-badge"></a>
-<a href="#"><img alt="SQL" src="https://img.shields.io/static/v1?logo=&label=%F0%9F%9B%A2&message=SQL&color=lightgray&logoColor=white&labelColor=lightgray&style=for-the-badge"></a>
+<a href="#"><img alt="SQL" src="https://img.shields.io/static/v1?logo=&label=&message=SQL&color=lightgray&logoColor=white&labelColor=lightgray&style=for-the-badge"></a>
 <a href="#"><img alt="SSH" src="https://img.shields.io/static/v1?logo=windowsterminal&label=&message=SSH&color=E1E1E1&logoColor=black&labelColor=E1E1E1&style=for-the-badge"></a>
 <a href="#"><img alt="WinSCP" src="https://img.shields.io/static/v1?logo=&label=%F0%9F%94%92&message=WinSCP&color=2D90DE&logoColor=white&labelColor=2D90DE&style=for-the-badge"></a>
 <a href="#"><img alt="XML" src="https://img.shields.io/static/v1?logo=&label=%3C/%3E&message=XML&color=217346&logoColor=white&labelColor=217346&style=for-the-badge"></a>
@@ -91,17 +91,55 @@ I am a mature Java Backend Developer with extensive experience in analysis, desi
 - 💼 **Analyst Developer** at **MVM Ingeniería de Software S.A.S.**\
 📆 2014 - 2021\
 📍 Medellín, Colombia\
-<a href="#"><img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white"></a>
-<a href="#"><img alt="Oracle" src="https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=white"></a>
-<a href="#"><img alt="Eclipse" src="https://img.shields.io/badge/Eclipse-2C2255?logo=eclipse&logoColor=white"></a>
-<a href="#"><img alt="Apache Tomcat" src="https://img.shields.io/badge/Apache_Tomcat-F8DC75?logo=apachetomcat&logoColor=black"></a>
-<a href="#"><img alt="Microsoft Excel Macros" src="https://img.shields.io/badge/Microsoft_Excel-217346?logo=microsoft-excel&logoColor=white"></a>
 <a href="#"><img alt="Active Directory" src="https://img.shields.io/static/v1?logo=windows&label=&message=Active%20Directory&color=blue&logoColor=white&labelColor=blue"></a>
 <a href="#"><img alt="Agile" src="https://img.shields.io/static/v1?logo=Agile&label=&message=Agile&color=4285F4&logoColor=white&labelColor=4285F4"></a>
+<a href="#"><img alt="Apache Tomcat" src="https://img.shields.io/badge/Apache_Tomcat-F8DC75?logo=apachetomcat&logoColor=black"></a>
 <a href="#"><img alt="DokuWiki" src="https://img.shields.io/static/v1?logo=DokuWiki&label=&message=DokuWiki&color=008800&labelColor=008800"></a>
+<a href="#"><img alt="Eclipse" src="https://img.shields.io/badge/Eclipse-2C2255?logo=eclipse&logoColor=white"></a>
+<a href="#"><img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white"></a>
+<a href="#"><img alt="JBoss" src="https://img.shields.io/static/v1?logo=&label=&message=JBoss&color=C40000&logoColor=&labelColor=C40000"></a>
+<a href="#"><img alt="Microsoft Excel Macros" src="https://img.shields.io/badge/Microsoft_Excel-217346?logo=microsoft-excel&logoColor=white"></a>
+<a href="#"><img alt="Oracle" src="https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=white"></a>
+<a href="#"><img alt="SQL Server" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?logo=microsoft-sql-server&logoColor=white"></a>
 
 ---
 
+- 💼 **Java Developer** at **ADA S.A.**\
+📆 2014\
+📍 Medellín, Colombia\
+<a href="#"><img alt="Eclipse" src="https://img.shields.io/badge/Eclipse-2C2255?logo=eclipse&logoColor=white"></a>
+<a href="#"><img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white"></a>
+<a href="#"><img alt="JPA" src="https://img.shields.io/static/v1?logo=&label=&message=JPA&color=4298B8"></a>
+<a href="#"><img alt="Oracle" src="https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=white"></a>
+
+---
+
+- 💼 **Project Engineer** at **Pragma S.A.**\
+📆 2011 - 2012\
+📍 Medellín, Colombia\
+<a href="#"><img alt="AJAX" src="https://img.shields.io/static/v1?label=&message=AJAX&color=747C60"></a>
+<a href="#"><img alt="Apache Tomcat" src="https://img.shields.io/badge/Apache_Tomcat-F8DC75?logo=apachetomcat&logoColor=black"></a>
+<a href="#"><img alt="Eclipse" src="https://img.shields.io/badge/Eclipse-2C2255?logo=eclipse&logoColor=white"></a>
+<a href="#"><img alt="Hibernate" src="https://img.shields.io/badge/Hibernate-59666C?logo=Hibernate&logoColor=white"></a>
+<a href="#"><img alt="I18n, L10n" src="https://img.shields.io/static/v1?logo=&label=&message=I18n,%20L10n"></a>
+<a href="#"><img alt="IBM Websphere Portal" src="https://img.shields.io/static/v1?logo=IBM&label=&message=IBM%20Websphere%20Portal&color=052FAD&labelColor=052FAD"></a>
+<a href="#"><img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white"></a>
+<a href="#"><img alt="Javadoc" src="https://img.shields.io/static/v1?logo=&label=&message=Javadoc&color=427B9C&logoColor=white&labelColor=427B9C"></a>
+<a href="#"><img alt="JBoss" src="https://img.shields.io/static/v1?logo=&label=&message=JBoss&color=C40000&logoColor=&labelColor=C40000"></a>
+<a href="#"><img alt="JPA" src="https://img.shields.io/static/v1?logo=&label=&message=JPA&color=4298B8"></a>
+<a href="#"><img alt="JSF" src="https://img.shields.io/static/v1?logo=&label=&message=JSF&color=B3782B&logoColor=white&labelColor=B3782B"></a>
+<a href="#"><img alt="JSP" src="https://img.shields.io/static/v1?logo=&label=&message=JSP&color=74A33B&logoColor=white&labelColor=74A33B"></a>
+<a href="#"><img alt="JSTL" src="https://img.shields.io/static/v1?logo=&label=&message=JSTL&color=&logoColor=white&labelColor="></a>
+<a href="#"><img alt="JUnit" src="https://img.shields.io/static/v1?logo=&label=&message=JUnit&color=CC0000&logoColor=white&labelColor="></a>
+<a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-005C84?logo=mysql&color=4479A1&logoColor=white"></a>
+<a href="#"><img alt="Oracle" src="https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=white"></a>
+<a href="#"><img alt="Putty" src="https://img.shields.io/static/v1?logo=&label=%F0%9F%96%A5%EF%B8%8F&message=Putty&color=FFFF00&logoColor=white&labelColor=FFFF00"></a>
+<a href="#"><img alt="RichFaces" src="https://img.shields.io/static/v1?logo=&label=%F0%9F%8E%AD&message=RichFaces&color=8FA9B7&logoColor=white&labelColor=8FA9B7"></a>
+<a href="#"><img alt="Spring Framework" src="https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=white"></a>
+<a href="#"><img alt="SQL" src="https://img.shields.io/static/v1?logo=&label=&message=SQL&color=lightgray&logoColor=white&labelColor=lightgray"></a>
+<a href="#"><img alt="SSH" src="https://img.shields.io/static/v1?logo=windowsterminal&label=&message=SSH&color=E1E1E1&logoColor=black&labelColor=E1E1E1"></a>
+<a href="#"><img alt="WinSCP" src="https://img.shields.io/static/v1?logo=&label=%F0%9F%94%92&message=WinSCP&color=2D90DE&logoColor=white&labelColor=2D90DE"></a>
+<a href="#"><img alt="XML" src="https://img.shields.io/static/v1?logo=&label=%3C/%3E&message=XML&color=217346&logoColor=white&labelColor=217346"></a>
 
 
 <!--
