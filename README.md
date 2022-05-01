@@ -84,8 +84,8 @@ I am a mature Java Backend Developer with extensive experience in analysis, desi
 
 ### 📓 Currently learning
 
-* <a href="#"><img alt="Java 8" src="https://img.shields.io/static/v1?logo=java&label=&message=Java%208&color=ED8B00&logoColor=white&labelColor=ED8B00&style=for-the-badge"></a>
-* <a href="#"><img alt="AWS" src="https://img.shields.io/static/v1?logo=amazonAWS&label=&message=AWS&color=232F3E&labelColor=232F3E&style=for-the-badge"></a>
+* <a href="#"><img alt="Java 8" src="https://img.shields.io/static/v1?logo=java&label=&message=Java%208&color=ED8B00&logoColor=white&labelColor=ED8B00"></a>
+* <a href="#"><img alt="AWS" src="https://img.shields.io/static/v1?logo=amazonAWS&label=&message=AWS&color=232F3E&labelColor=232F3E"></a>
 
 
 
