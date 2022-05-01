@@ -7,7 +7,7 @@
 
 I am a mature Java Backend Developer with extensive experience in analysis, design and construction of software solutions in programming using Java SE/EE. Being well-versed with all the stages of the SDLC, and having experience of working within Agile methodologies, I am an efficient team player with strong problem-solving skills, I am proactive, fast learner, results-oriented, I have strong leadership and documentation abilities.
 
-## 💻 Skill Set
+## 💪🏻 Skill Set
 
 <a href="#"><img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"></a>
 <a href="#"><img alt="Hibernate" src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white"></a>
