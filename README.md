@@ -65,7 +65,7 @@ I am a mature Java Backend Developer with extensive experience in analysis, desi
 
 
 
-## Education
+## 📚 Education
 
 ### 🎓 Formal Education
 
