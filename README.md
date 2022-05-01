@@ -51,6 +51,7 @@ I am a mature Java Backend Developer with extensive experience in analysis, desi
 <a href="#"><img alt="SQL" src="https://img.shields.io/static/v1?label=&message=SQL&color=lightgray&labelColor=lightgray&style=for-the-badge"></a>
 <a href="#"><img alt="SSH" src="https://img.shields.io/static/v1?logo=windowsterminal&label=&message=SSH&color=E1E1E1&logoColor=black&style=for-the-badge"></a>
 <a href="#"><img alt="Subversion" src="https://img.shields.io/badge/subversion-809CC9?style=for-the-badge&logo=subversion&logoColor=white"></a>
+<a href="#"><img alt="Toad" src="https://img.shields.io/static/v1?label=%F0%9F%90%B8&message=Toad&color=003F4B&labelColor=003F4B&style=for-the-badge"></a>
 <a href="#"><img alt="VirtualBox" src="https://img.shields.io/badge/virtualbox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white"></a>
 <a href="#"><img alt="WinSCP" src="https://img.shields.io/static/v1?label=%F0%9F%94%92&message=WinSCP&color=2D90DE&labelColor=2D90DE&style=for-the-badge"></a>
 <a href="#"><img alt="XML" src="https://img.shields.io/static/v1?label=%3C/%3E&message=XML&color=217346&labelColor=217346&style=for-the-badge"></a>
@@ -84,8 +85,8 @@ I am a mature Java Backend Developer with extensive experience in analysis, desi
 
 ### 📓 Currently learning
 
-* <a href="#"><img alt="Java 8" src="https://img.shields.io/static/v1?logo=java&label=&message=Java%208&color=ED8B00&logoColor=white&labelColor=ED8B00"></a>
-* <a href="#"><img alt="AWS" src="https://img.shields.io/static/v1?logo=amazonAWS&label=&message=AWS&color=232F3E&labelColor=232F3E"></a>
+* <a href="#"><img alt="Java 8" src="https://img.shields.io/static/v1?logo=java&label=&message=Java%208&color=ED8B00&logoColor=white&labelColor=ED8B00&style=for-the-badge"></a>
+* <a href="#"><img alt="AWS" src="https://img.shields.io/static/v1?logo=amazonAWS&label=&message=AWS&color=232F3E&labelColor=232F3E&style=for-the-badge"></a>
 
 
 
@@ -119,6 +120,7 @@ I am a mature Java Backend Developer with extensive experience in analysis, desi
 <a href="#"><img alt="Scrum" src="https://img.shields.io/static/v1?label=&message=Scrum&color=4285F4"></a>
 <a href="#"><img alt="SQL Server" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?logo=microsoft-sql-server&logoColor=white"></a>
 <a href="#"><img alt="SQL" src="https://img.shields.io/static/v1?label=&message=SQL&color=lightgray"></a>
+<a href="#"><img alt="Toad" src="https://img.shields.io/static/v1?label=%F0%9F%90%B8&message=Toad%20for%20Oracle&color=003F4B&labelColor=003F4B"></a>
 <a href="#"><img alt="VirtualBox" src="https://img.shields.io/badge/virtualbox-183A61?logo=virtualbox&logoColor=white"></a>
 <a href="#"><img alt="XML" src="https://img.shields.io/static/v1?label=%3C/%3E&message=XML&color=217346&labelColor=217346"></a>
 
@@ -131,6 +133,7 @@ I am a mature Java Backend Developer with extensive experience in analysis, desi
 <a href="#"><img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white"></a>
 <a href="#"><img alt="JPA" src="https://img.shields.io/static/v1?label=&message=JPA&color=4298B8"></a>
 <a href="#"><img alt="Oracle" src="https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=white"></a>
+<a href="#"><img alt="Toad" src="https://img.shields.io/static/v1?label=%F0%9F%90%B8&message=Toad%20Data%20Modeler&color=003F4B&labelColor=003F4B"></a>
 
 ---
 
