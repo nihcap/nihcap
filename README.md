@@ -118,6 +118,7 @@ I am a mature Java Backend Developer with extensive experience in analysis, desi
 <a href="#"><img alt="Kanban" src="https://img.shields.io/static/v1?label=&message=Kanban&color=FFFFD4"></a>
 <a href="#"><img alt="Markdown" src="https://img.shields.io/static/v1?logo=Markdown&label=&message=Markdown&color=000000"></a>
 <a href="#"><img alt="Microsoft Excel Macros" src="https://img.shields.io/badge/Microsoft_Excel-217346?logo=microsoft-excel&logoColor=white"></a>
+<a href="#"><img alt="Notepad++" src="https://img.shields.io/badge/Notepad++-90E59A.svg?logo=notepad%2B%2B&logoColor=black"></a>
 <a href="#"><img alt="Oracle" src="https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=white"></a>
 <a href="#"><img alt="Scrum" src="https://img.shields.io/static/v1?label=&message=Scrum&color=4285F4"></a>
 <a href="#"><img alt="SQL Server" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?logo=microsoft-sql-server&logoColor=white"></a>
@@ -134,6 +135,7 @@ I am a mature Java Backend Developer with extensive experience in analysis, desi
 <a href="#"><img alt="Eclipse" src="https://img.shields.io/badge/Eclipse-2C2255?logo=eclipse&logoColor=white"></a>
 <a href="#"><img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white"></a>
 <a href="#"><img alt="JPA" src="https://img.shields.io/static/v1?label=&message=JPA&color=4298B8"></a>
+<a href="#"><img alt="Notepad++" src="https://img.shields.io/badge/Notepad++-90E59A.svg?logo=notepad%2B%2B&logoColor=black"></a>
 <a href="#"><img alt="Oracle" src="https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=white"></a>
 <a href="#"><img alt="Toad" src="https://img.shields.io/static/v1?label=%F0%9F%90%B8&message=Toad%20Data%20Modeler&color=003F4B&labelColor=003F4B"></a>
 
@@ -162,6 +164,7 @@ I am a mature Java Backend Developer with extensive experience in analysis, desi
 <a href="#"><img alt="JSTL" src="https://img.shields.io/static/v1?label=&message=JSTL&color=&&labelColor="></a>
 <a href="#"><img alt="JUnit" src="https://img.shields.io/static/v1?label=&message=JUnit&color=CC0000&labelColor="></a>
 <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-005C84?logo=mysql&color=4479A1&logoColor=white"></a>
+<a href="#"><img alt="Notepad++" src="https://img.shields.io/badge/Notepad++-90E59A.svg?logo=notepad%2B%2B&logoColor=black"></a>
 <a href="#"><img alt="Oracle" src="https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=white"></a>
 <a href="#"><img alt="Putty" src="https://img.shields.io/static/v1?label=%F0%9F%96%A5%EF%B8%8F&message=Putty&color=FFFF00&labelColor=FFFF00"></a>
 <a href="#"><img alt="RichFaces" src="https://img.shields.io/static/v1?label=%F0%9F%8E%AD&message=RichFaces&color=8FA9B7&labelColor=8FA9B7"></a>
@@ -191,6 +194,7 @@ I am a mature Java Backend Developer with extensive experience in analysis, desi
 <a href="#"><img alt="JSP" src="https://img.shields.io/static/v1?label=&message=JSP&color=74A33B"></a>
 <a href="#"><img alt="JSTL" src="https://img.shields.io/static/v1?label=&message=JSTL&color=&&labelColor="></a>
 <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-005C84?logo=mysql&color=4479A1&logoColor=white"></a>
+<a href="#"><img alt="Notepad++" src="https://img.shields.io/badge/Notepad++-90E59A.svg?logo=notepad%2B%2B&logoColor=black"></a>
 <a href="#"><img alt="Oracle" src="https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=white"></a>
 <a href="#"><img alt="Spring Framework" src="https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=white"></a>
 <a href="#"><img alt="Toad" src="https://img.shields.io/static/v1?label=%F0%9F%90%B8&message=Toad%20Data%20Modeler&color=003F4B&labelColor=003F4B"></a>
@@ -216,6 +220,7 @@ I am a mature Java Backend Developer with extensive experience in analysis, desi
 <a href="#"><img alt="JSP" src="https://img.shields.io/static/v1?label=&message=JSP&color=74A33B"></a>
 <a href="#"><img alt="JSTL" src="https://img.shields.io/static/v1?label=&message=JSTL&color=&&labelColor="></a>
 <a href="#"><img alt="MooTools" src="https://img.shields.io/static/v1?label=&message=MooTools&color=7D8AA5"></a>
+<a href="#"><img alt="Notepad++" src="https://img.shields.io/badge/Notepad++-90E59A.svg?logo=notepad%2B%2B&logoColor=black"></a>
 <a href="#"><img alt="Oracle" src="https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=white"></a>
 <a href="#"><img alt="XSLT" src="https://img.shields.io/static/v1?label=&message=XSLT&color=CCCC33"></a>
 <a href="#"><img alt="YUI" src="https://img.shields.io/static/v1?logo=yahoo&label=&message=YUI&color=D0D5DC&logoColor=213485"></a>
@@ -232,6 +237,7 @@ I am a mature Java Backend Developer with extensive experience in analysis, desi
 <a href="#"><img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white"></a>
 <a href="#"><img alt="Javascript" src="https://img.shields.io/badge/JavaScript-323330?logo=javascript&logoColor=F7DF1E"></a>
 <a href="#"><img alt="JSP" src="https://img.shields.io/static/v1?label=&message=JSP&color=74A33B"></a>
+<a href="#"><img alt="Notepad++" src="https://img.shields.io/badge/Notepad++-90E59A.svg?logo=notepad%2B%2B&logoColor=black"></a>
 <a href="#"><img alt="Oracle JDeveloper" src="https://img.shields.io/static/v1?logo=oracle&label=&message=Oracle%20JDeveloper&color=9AB5D1&logoColor=white"></a>
 <a href="#"><img alt="PostgreSQL" src="https://img.shields.io/badge/Postgresql-4169E1?logo=postgresql&color=4169E1&logoColor=white"></a>
 
