@@ -55,7 +55,7 @@ I am a mature Java Backend Developer with extensive experience in analysis, desi
 <a href="#"><img alt="Toad" src="https://img.shields.io/static/v1?label=%F0%9F%90%B8&message=Toad&color=003F4B&labelColor=003F4B&style=for-the-badge"></a>
 <a href="#"><img alt="VirtualBox" src="https://img.shields.io/badge/virtualbox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white"></a>
 <a href="#"><img alt="WinSCP" src="https://img.shields.io/static/v1?label=%F0%9F%94%92&message=WinSCP&color=2D90DE&labelColor=2D90DE&style=for-the-badge"></a>
-<a href="#"><img alt="XML" src="https://img.shields.io/static/v1?label=%3C/%3E&message=XML&color=217346&labelColor=217346&style=for-the-badge"></a>
+<a href="#"><img alt="XML" src="https://img.shields.io/static/v1?label=%3C/%3E&message=XML&color=005500&labelColor=005500&style=for-the-badge"></a>
 <a href="#"><img alt="XSLT" src="https://img.shields.io/static/v1?label=&message=XSLT&color=CCCC33&style=for-the-badge"></a>
 
 
@@ -125,7 +125,7 @@ I am a mature Java Backend Developer with extensive experience in analysis, desi
 <a href="#"><img alt="SQL" src="https://img.shields.io/static/v1?label=&message=SQL&color=lightgray"></a>
 <a href="#"><img alt="Toad" src="https://img.shields.io/static/v1?label=%F0%9F%90%B8&message=Toad%20for%20Oracle&color=003F4B&labelColor=003F4B"></a>
 <a href="#"><img alt="VirtualBox" src="https://img.shields.io/badge/virtualbox-183A61?logo=virtualbox&logoColor=white"></a>
-<a href="#"><img alt="XML" src="https://img.shields.io/static/v1?label=%3C/%3E&message=XML&color=217346&labelColor=217346"></a>
+<a href="#"><img alt="XML" src="https://img.shields.io/static/v1?label=%3C/%3E&message=XML&color=005500&labelColor=005500"></a>
 
 ---
 
@@ -183,7 +183,7 @@ I am a mature Java Backend Developer with extensive experience in analysis, desi
 <a href="#"><img alt="SQL" src="https://img.shields.io/static/v1?label=&message=SQL&color=lightgray"></a>
 <a href="#"><img alt="SSH" src="https://img.shields.io/static/v1?logo=windowsterminal&label=&message=SSH&color=E1E1E1&logoColor=black"></a>
 <a href="#"><img alt="WinSCP" src="https://img.shields.io/static/v1?label=%F0%9F%94%92&message=WinSCP&color=2D90DE&labelColor=2D90DE"></a>
-<a href="#"><img alt="XML" src="https://img.shields.io/static/v1?label=%3C/%3E&message=XML&color=217346&labelColor=217346"></a>
+<a href="#"><img alt="XML" src="https://img.shields.io/static/v1?label=%3C/%3E&message=XML&color=005500&labelColor=005500"></a>
 
 ---
 
