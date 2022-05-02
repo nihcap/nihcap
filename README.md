@@ -141,6 +141,15 @@ I am a mature Java Backend Developer with extensive experience in analysis, desi
 
 ---
 
+- 👨🏻‍💻 **Freelance Android Developer**\
+📆 2013\
+📍 Medellín, Colombia\
+<a href="#"><img alt="Android Development (Java)" src="https://img.shields.io/badge/Android-83B81A?logo=android&logoColor=white"></a>
+<a href="#"><img alt="Eclipse" src="https://img.shields.io/badge/Eclipse-2C2255?logo=eclipse&logoColor=white"></a>
+<a href="#"><img alt="Notepad++" src="https://img.shields.io/badge/Notepad++-90E59A.svg?logo=notepad%2B%2B&logoColor=black"></a>
+
+---
+
 - 💼 **Project Engineer** at **Pragma S.A.**\
 📆 2011 - 2012\
 📍 Medellín, Colombia\
