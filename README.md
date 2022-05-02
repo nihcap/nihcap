@@ -185,6 +185,7 @@ I am a mature Java Backend Developer with extensive experience in analysis, desi
 <a href="#"><img alt="Hibernate" src="https://img.shields.io/badge/Hibernate-59666C?logo=Hibernate&logoColor=white"></a>
 <a href="#"><img alt="HTML" src="https://img.shields.io/static/v1?label=&message=HTML&color=EF2607"></a>
 <a href="#"><img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white"></a>
+<a href="#"><img alt="Javascript" src="https://img.shields.io/badge/JavaScript-323330?logo=javascript&logoColor=F7DF1E"></a>
 <a href="#"><img alt="JBoss" src="https://img.shields.io/static/v1?label=&message=JBoss&color=C40000"></a>
 <a href="#"><img alt="jQuery" src="https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=white"></a>
 <a href="#"><img alt="JSP" src="https://img.shields.io/static/v1?label=&message=JSP&color=74A33B"></a>
@@ -194,6 +195,27 @@ I am a mature Java Backend Developer with extensive experience in analysis, desi
 <a href="#"><img alt="Spring Framework" src="https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=white"></a>
 <a href="#"><img alt="Toad" src="https://img.shields.io/static/v1?label=%F0%9F%90%B8&message=Toad%20Data%20Modeler&color=003F4B&labelColor=003F4B"></a>
 <a href="#"><img alt="XSLT" src="https://img.shields.io/static/v1?label=&message=XSLT&color=CCCC33"></a>
+
+
+---
+
+- 💼 **Junior Consultant** at **Assist Consultores de Sistemas S.A.**\
+📆 2009\
+📍 Medellín, Colombia\
+<a href="#"><img alt="Adobe Flex" src="https://img.shields.io/static/v1?label=&message=Adobe%20Flex&color=91A7B2"></a>
+<a href="#"><img alt="AJAX" src="https://img.shields.io/static/v1?label=&message=AJAX&color=747C60"></a>
+<a href="#"><img alt="DisplayTag" src="https://img.shields.io/static/v1?label=&message=DisplayTag&color=E2F3B8"></a>
+<a href="#"><img alt="Hibernate" src="https://img.shields.io/badge/Hibernate-59666C?logo=Hibernate&logoColor=white"></a>
+<a href="#"><img alt="IBM Websphere Portal" src="https://img.shields.io/static/v1?logo=IBM&label=&message=IBM%20Websphere%20Portal&color=052FAD&labelColor=052FAD"></a>
+<a href="#"><img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white"></a>
+<a href="#"><img alt="Javascript" src="https://img.shields.io/badge/JavaScript-323330?logo=javascript&logoColor=F7DF1E"></a>
+<a href="#"><img alt="jQuery" src="https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=white"></a>
+<a href="#"><img alt="JSP" src="https://img.shields.io/static/v1?label=&message=JSP&color=74A33B"></a>
+<a href="#"><img alt="JSTL" src="https://img.shields.io/static/v1?label=&message=JSTL&color=&&labelColor="></a>
+<a href="#"><img alt="MooTools" src="https://img.shields.io/static/v1?label=&message=MooTools&color=7D8AA5"></a>
+<a href="#"><img alt="Oracle" src="https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=white"></a>
+<a href="#"><img alt="XSLT" src="https://img.shields.io/static/v1?label=&message=XSLT&color=CCCC33"></a>
+<a href="#"><img alt="YUI" src="https://img.shields.io/static/v1?logo=yahoo&label=&message=YUI&color=D0D5DC&logoColor=213485"></a>
 
 
 <!--
