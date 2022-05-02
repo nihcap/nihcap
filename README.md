@@ -20,6 +20,7 @@ I am a mature Java Backend Developer with extensive experience in analysis, desi
 <a href="#"><img alt="Android Development (Java)" src="https://img.shields.io/badge/Android-83B81A?style=for-the-badge&logo=android&logoColor=white"></a>
 <a href="#"><img alt="Android Studio" src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white"></a>
 <a href="#"><img alt="Apache Tomcat" src="https://img.shields.io/badge/Apache_Tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black"></a>
+<a href="#"><img alt="Aptana Studio" src="https://img.shields.io/static/v1?label=&message=Aptana%20Studio&color=FF952E&style=for-the-badge"></a>
 <a href="#"><img alt="Azure DevOps" src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white"></a>
 <a href="#"><img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge"></a>
 <a href="#"><img alt="DokuWiki" src="https://img.shields.io/static/v1?label=&message=DokuWiki&color=008800&labelColor=008800&style=for-the-badge"></a>
@@ -55,6 +56,7 @@ I am a mature Java Backend Developer with extensive experience in analysis, desi
 <a href="#"><img alt="VirtualBox" src="https://img.shields.io/badge/virtualbox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white"></a>
 <a href="#"><img alt="WinSCP" src="https://img.shields.io/static/v1?label=%F0%9F%94%92&message=WinSCP&color=2D90DE&labelColor=2D90DE&style=for-the-badge"></a>
 <a href="#"><img alt="XML" src="https://img.shields.io/static/v1?label=%3C/%3E&message=XML&color=217346&labelColor=217346&style=for-the-badge"></a>
+<a href="#"><img alt="XSLT" src="https://img.shields.io/static/v1?label=&message=XSLT&color=CCCC33&style=for-the-badge"></a>
 
 
 ## 📚 Education
@@ -142,6 +144,7 @@ I am a mature Java Backend Developer with extensive experience in analysis, desi
 📍 Medellín, Colombia\
 <a href="#"><img alt="AJAX" src="https://img.shields.io/static/v1?label=&message=AJAX&color=747C60"></a>
 <a href="#"><img alt="Apache Tomcat" src="https://img.shields.io/badge/Apache_Tomcat-F8DC75?logo=apachetomcat&logoColor=black"></a>
+<a href="#"><img alt="Aptana Studio" src="https://img.shields.io/static/v1?label=&message=Aptana%20Studio&color=FF952E"></a>
 <a href="#"><img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white"></a>
 <a href="#"><img alt="Eclipse" src="https://img.shields.io/badge/Eclipse-2C2255?logo=eclipse&logoColor=white"></a>
 <a href="#"><img alt="Hibernate" src="https://img.shields.io/badge/Hibernate-59666C?logo=Hibernate&logoColor=white"></a>
@@ -153,6 +156,7 @@ I am a mature Java Backend Developer with extensive experience in analysis, desi
 <a href="#"><img alt="Javascript" src="https://img.shields.io/badge/JavaScript-323330?logo=javascript&logoColor=F7DF1E"></a>
 <a href="#"><img alt="JBoss" src="https://img.shields.io/static/v1?label=&message=JBoss&color=C40000"></a>
 <a href="#"><img alt="JPA" src="https://img.shields.io/static/v1?label=&message=JPA&color=4298B8"></a>
+<a href="#"><img alt="jQuery" src="https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=white"></a>
 <a href="#"><img alt="JSF" src="https://img.shields.io/static/v1?label=&message=JSF&color=B3782B"></a>
 <a href="#"><img alt="JSP" src="https://img.shields.io/static/v1?label=&message=JSP&color=74A33B"></a>
 <a href="#"><img alt="JSTL" src="https://img.shields.io/static/v1?label=&message=JSTL&color=&&labelColor="></a>
@@ -167,6 +171,29 @@ I am a mature Java Backend Developer with extensive experience in analysis, desi
 <a href="#"><img alt="SSH" src="https://img.shields.io/static/v1?logo=windowsterminal&label=&message=SSH&color=E1E1E1&logoColor=black"></a>
 <a href="#"><img alt="WinSCP" src="https://img.shields.io/static/v1?label=%F0%9F%94%92&message=WinSCP&color=2D90DE&labelColor=2D90DE"></a>
 <a href="#"><img alt="XML" src="https://img.shields.io/static/v1?label=%3C/%3E&message=XML&color=217346&labelColor=217346"></a>
+
+---
+
+- 💼 **Analyst Developer** at **LandSoft S.A.S.**\
+📆 2009 - 2010\
+📍 Medellín, Colombia\
+<a href="#"><img alt="AJAX" src="https://img.shields.io/static/v1?label=&message=AJAX&color=747C60"></a>
+<a href="#"><img alt="Apache Tomcat" src="https://img.shields.io/badge/Apache_Tomcat-F8DC75?logo=apachetomcat&logoColor=black"></a>
+<a href="#"><img alt="Aptana Studio" src="https://img.shields.io/static/v1?label=&message=Aptana%20Studio&color=FF952E"></a>
+<a href="#"><img alt="CSS" src="https://img.shields.io/static/v1?label=&message=CSS&color=065BC4"></a>
+<a href="#"><img alt="Eclipse" src="https://img.shields.io/badge/Eclipse-2C2255?logo=eclipse&logoColor=white"></a>
+<a href="#"><img alt="Hibernate" src="https://img.shields.io/badge/Hibernate-59666C?logo=Hibernate&logoColor=white"></a>
+<a href="#"><img alt="HTML" src="https://img.shields.io/static/v1?label=&message=HTML&color=EF2607"></a>
+<a href="#"><img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white"></a>
+<a href="#"><img alt="JBoss" src="https://img.shields.io/static/v1?label=&message=JBoss&color=C40000"></a>
+<a href="#"><img alt="jQuery" src="https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=white"></a>
+<a href="#"><img alt="JSP" src="https://img.shields.io/static/v1?label=&message=JSP&color=74A33B"></a>
+<a href="#"><img alt="JSTL" src="https://img.shields.io/static/v1?label=&message=JSTL&color=&&labelColor="></a>
+<a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-005C84?logo=mysql&color=4479A1&logoColor=white"></a>
+<a href="#"><img alt="Oracle" src="https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=white"></a>
+<a href="#"><img alt="Spring Framework" src="https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=white"></a>
+<a href="#"><img alt="Toad" src="https://img.shields.io/static/v1?label=%F0%9F%90%B8&message=Toad%20Data%20Modeler&color=003F4B&labelColor=003F4B"></a>
+<a href="#"><img alt="XSLT" src="https://img.shields.io/static/v1?label=&message=XSLT&color=CCCC33"></a>
 
 
 <!--
