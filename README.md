@@ -204,8 +204,11 @@ I am a mature Java Backend Developer with extensive experience in analysis, desi
 📍 Medellín, Colombia\
 <a href="#"><img alt="Adobe Flex" src="https://img.shields.io/static/v1?label=&message=Adobe%20Flex&color=91A7B2"></a>
 <a href="#"><img alt="AJAX" src="https://img.shields.io/static/v1?label=&message=AJAX&color=747C60"></a>
+<a href="#"><img alt="CSS" src="https://img.shields.io/static/v1?label=&message=CSS&color=065BC4"></a>
 <a href="#"><img alt="DisplayTag" src="https://img.shields.io/static/v1?label=&message=DisplayTag&color=E2F3B8"></a>
+<a href="#"><img alt="Eclipse" src="https://img.shields.io/badge/Eclipse-2C2255?logo=eclipse&logoColor=white"></a>
 <a href="#"><img alt="Hibernate" src="https://img.shields.io/badge/Hibernate-59666C?logo=Hibernate&logoColor=white"></a>
+<a href="#"><img alt="HTML" src="https://img.shields.io/static/v1?label=&message=HTML&color=EF2607"></a>
 <a href="#"><img alt="IBM Websphere Portal" src="https://img.shields.io/static/v1?logo=IBM&label=&message=IBM%20Websphere%20Portal&color=052FAD&labelColor=052FAD"></a>
 <a href="#"><img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white"></a>
 <a href="#"><img alt="Javascript" src="https://img.shields.io/badge/JavaScript-323330?logo=javascript&logoColor=F7DF1E"></a>
@@ -216,6 +219,21 @@ I am a mature Java Backend Developer with extensive experience in analysis, desi
 <a href="#"><img alt="Oracle" src="https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=white"></a>
 <a href="#"><img alt="XSLT" src="https://img.shields.io/static/v1?label=&message=XSLT&color=CCCC33"></a>
 <a href="#"><img alt="YUI" src="https://img.shields.io/static/v1?logo=yahoo&label=&message=YUI&color=D0D5DC&logoColor=213485"></a>
+
+---
+
+- 💼 **Analyst Developer** at **Plataforma Universidad de Pamplona**\
+📆 2007 - 2008\
+📍 Pamplona, Colombia\
+<a href="#"><img alt="AJAX" src="https://img.shields.io/static/v1?label=&message=AJAX&color=747C60"></a>
+<a href="#"><img alt="CASE Studio" src="https://img.shields.io/static/v1?label=%F0%9F%90%B8&message=CASE%20Studio&color=003F4B&labelColor=003F4B"></a>
+<a href="#"><img alt="CSS" src="https://img.shields.io/static/v1?label=&message=CSS&color=065BC4"></a>
+<a href="#"><img alt="HTML" src="https://img.shields.io/static/v1?label=&message=HTML&color=EF2607"></a>
+<a href="#"><img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white"></a>
+<a href="#"><img alt="Javascript" src="https://img.shields.io/badge/JavaScript-323330?logo=javascript&logoColor=F7DF1E"></a>
+<a href="#"><img alt="JSP" src="https://img.shields.io/static/v1?label=&message=JSP&color=74A33B"></a>
+<a href="#"><img alt="Oracle JDeveloper" src="https://img.shields.io/static/v1?logo=oracle&label=&message=Oracle%20JDeveloper&color=9AB5D1&logoColor=white"></a>
+<a href="#"><img alt="PostgreSQL" src="https://img.shields.io/badge/Postgresql-4169E1?logo=postgresql&color=4169E1&logoColor=white"></a>
 
 
 <!--
