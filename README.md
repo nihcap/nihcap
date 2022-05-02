@@ -1,7 +1,7 @@
 ## 📧 Contact me at
 
 <a href="https://www.linkedin.com/in/franciscoalvaradosantos"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="https://stackoverflow.com/users/218717/francisco-alvarado"><img alt="Stack Overflow" src="https://img.shields.io/badge/stackoverflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white"></a>
+<a href="https://stackoverflow.com/users/218717/francisco-alvarado"><img alt="Stack Overflow" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"></a>
 
 ## 🙂 Who I am?
 
