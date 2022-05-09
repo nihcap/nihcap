@@ -73,7 +73,7 @@ I am a mature Java Backend Developer with extensive experience in analysis, desi
 
 - 🥇 **Data Analytics with Power BI**\
 📆 2021\
-🏛 **CESDE / Comfama**
+🏛️ **CESDE / Comfama**
 
 - 🥇 **Oracle Certified Associate, Java SE 7 Programmer**\
 📆 2015\
