@@ -73,7 +73,7 @@ I am a mature Java Backend Developer with extensive experience in analysis, desi
 
 - 🥇 **Data Analytics with Power BI**\
 📆 2021\
-🏛️ **CESDE / Comfama**
+🏛 **CESDE / Comfama**
 
 - 🥇 **Oracle Certified Associate, Java SE 7 Programmer**\
 📆 2015\
@@ -89,7 +89,9 @@ I am a mature Java Backend Developer with extensive experience in analysis, desi
 
 * <a href="#"><img alt="Java 8" src="https://img.shields.io/static/v1?logo=java&label=&message=Java%208&color=ED8B00&logoColor=white&labelColor=ED8B00&style=for-the-badge"></a>
 * <a href="#"><img alt="AWS" src="https://img.shields.io/static/v1?logo=amazonAWS&label=&message=AWS&color=232F3E&labelColor=232F3E&style=for-the-badge"></a>
-* <a href="#"><img alt="Java" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"></a>
+* <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"></a>
+* <a href="#"><img alt="PHP" src="https://img.shields.io/badge/Php-777BB4?style=for-the-badge&logo=php&logoColor=white"></a>
+* <a href="#"><img alt="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"></a>
 
 
 ## 💼 Work Experience
