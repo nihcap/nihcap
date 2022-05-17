@@ -92,6 +92,7 @@ I am a mature Java Backend Developer with extensive experience in analysis, desi
 * <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"></a>
 * <a href="#"><img alt="PHP" src="https://img.shields.io/badge/Php-777BB4?style=for-the-badge&logo=php&logoColor=white"></a>
 * <a href="#"><img alt="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"></a>
+* <a href="#"><img alt="Ubuntu Server/Desktop" src="https://img.shields.io/static/v1?logo=Ubuntu&label=&message=Ubuntu%20Server/Desktop&color=E95420&logoColor=white&style=for-the-badge"></a>
 
 
 ## 💼 Work Experience
@@ -122,9 +123,11 @@ I am a mature Java Backend Developer with extensive experience in analysis, desi
 <a href="#"><img alt="Microsoft Excel Macros" src="https://img.shields.io/badge/Microsoft_Excel-217346?logo=microsoft-excel&logoColor=white"></a>
 <a href="#"><img alt="Notepad++" src="https://img.shields.io/badge/Notepad++-90E59A.svg?logo=notepad%2B%2B&logoColor=black"></a>
 <a href="#"><img alt="Oracle" src="https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=white"></a>
+<a href="#"><img alt="Putty" src="https://img.shields.io/static/v1?label=%F0%9F%96%A5%EF%B8%8F&message=Putty&color=FFFF00&labelColor=FFFF00"></a>
 <a href="#"><img alt="Scrum" src="https://img.shields.io/static/v1?label=&message=Scrum&color=4285F4"></a>
 <a href="#"><img alt="SQL Server" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?logo=microsoft-sql-server&logoColor=white"></a>
 <a href="#"><img alt="SQL" src="https://img.shields.io/static/v1?label=&message=SQL&color=lightgray"></a>
+<a href="#"><img alt="SSH" src="https://img.shields.io/static/v1?logo=windowsterminal&label=&message=SSH&color=E1E1E1&logoColor=black"></a>
 <a href="#"><img alt="Toad" src="https://img.shields.io/static/v1?label=%F0%9F%90%B8&message=Toad%20for%20Oracle&color=003F4B&labelColor=003F4B"></a>
 <a href="#"><img alt="VirtualBox" src="https://img.shields.io/badge/virtualbox-183A61?logo=virtualbox&logoColor=white"></a>
 <a href="#"><img alt="XML" src="https://img.shields.io/static/v1?label=%3C/%3E&message=XML&color=005500&labelColor=005500"></a>
