@@ -127,16 +127,27 @@ I am a mature Java Backend Developer with extensive experience in analysis, desi
 
 ---
 
-### 📲 My Android Apps
+### 📲 Side projects (My Android Apps)
 
 - ⚡ **Randomlyst: random numbers**\
   📆 2013-2023\
   [![card](https://PlayBadges.pavi2410.me/badge/full?id=co.com.nihcap.randomlyst)](https://play.google.com/store/apps/details?id=co.com.nihcap.randomlyst)
+  - My first Android app
+  - Written in Java, I plan to migrate it to Kotlin.
+  - I originally developed this project in Eclipse Juno with the ADT plugin and successfully migrated it in 2023 to Android Studio Giraffe for further development.
+  - Target compatibility: Originally developed for Android API Level 14 (Android 4.0.x: Ice Cream Sandwich), now compatible with Android API Level 34 (Android 14)
+  - 0 ANRS/crashes since first release.
+
   
 - ⚡ **Christmas Novena**\
   📆 2013-2015\
   [![card](https://PlayBadges.pavi2410.me/badge/full?id=co.com.nihcap.xmas9)](https://play.google.com/store/apps/details?id=co.com.nihcap.xmas9)
-  
+  - Written in Java, I plan to create a new app from scratch in Kotlin.
+  - Successfully implements [**ActionBarSherlock**](http://actionbarsherlock.com) library to use the then new navigation drawer funcionality and hamburguer icon animation.
+  - Project developed in Eclipse Juno with ADT plugin.
+  - Target compatibility: Originally developed for Android API Level 14 (Android 4.0.x: Ice Cream Sandwich), later updated to be compatible with Android API Level 18 (Android 4.3: Jelly Bean)
+  - 0 ANRS/crashes since first release.
+ 
 
 ---
 
