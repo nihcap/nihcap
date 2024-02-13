@@ -143,7 +143,7 @@ I am a mature Java Backend Developer with extensive experience in analysis, desi
   📆 2013-2015\
   [![card](https://PlayBadges.pavi2410.me/badge/full?id=co.com.nihcap.xmas9)](https://play.google.com/store/apps/details?id=co.com.nihcap.xmas9)
   - Written in Java, I plan to create a new app from scratch in Kotlin.
-  - Successfully implements [**ActionBarSherlock**](http://actionbarsherlock.com) library to use the then new navigation drawer funcionality and hamburguer icon animation.
+  - Successfully implements [**ActionBarSherlock**](http://actionbarsherlock.com) library to use the then new navigation drawer funcionality and hamburger icon animation.
   - Project developed in Eclipse Juno with ADT plugin.
   - Target compatibility: Originally developed for Android API Level 14 (Android 4.0.x: Ice Cream Sandwich), later updated to be compatible with Android API Level 18 (Android 4.3: Jelly Bean)
   - 0 ANRS/crashes since first release.
