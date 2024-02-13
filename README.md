@@ -2,6 +2,7 @@
 
 <a href="https://www.linkedin.com/in/franciscoalvaradosantos"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <br/><a href="https://stackoverflow.com/users/218717/francisco-alvarado"><img alt="Stack Overflow" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"></a>
+<br/><a href="https://stackexchange.com/users/76394/francisco-alvarado"><img alt="Stack Exchange" src="https://img.shields.io/badge/Stack_Exchange-1E5397?style=for-the-badge&logo=stack-exchange&logoColor=white"></a>
 
 ## 🙂 Who I am?
 
@@ -115,7 +116,7 @@ I am a mature Java Backend Developer with extensive experience in analysis, desi
 
 - 🥇 **EF SET English Certificate 81/100 (C2 Proficient)**\
   📆 2022\
-  🏛 **EF Standard English Test (EF SET)**
+  🏛️ **EF Standard English Test (EF SET)**
 
 - 🥇 **Oracle Certified Associate, Java SE 7 Programmer**\
   📆 2015\
@@ -124,6 +125,9 @@ I am a mature Java Backend Developer with extensive experience in analysis, desi
 - 🥇 **Certified Scrum Developer**\
   📆 2015\
   🏛️ **Scrum Alliance**
+
+- 🥇 **Credly Certifications**\
+  [![Certifications](https://github-readme-widgets.vercel.app/api?username=francisco-alvarado)]
 
 ---
 
