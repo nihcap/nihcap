@@ -127,6 +127,19 @@ I am a mature Java Backend Developer with extensive experience in analysis, desi
 
 ---
 
+### 📲 My Android Apps
+
+- ⚡ **Randomlyst: random numbers**\
+  📆 2013-2023\
+  [![card](https://PlayBadges.pavi2410.me/badge/full?id=co.com.nihcap.randomlyst)](https://play.google.com/store/apps/details?id=co.com.nihcap.randomlyst)
+  
+- ⚡ **Christmas Novena**\
+  📆 2013-2015\
+  [![card](https://PlayBadges.pavi2410.me/badge/full?id=co.com.nihcap.xmas9)](https://play.google.com/store/apps/details?id=co.com.nihcap.xmas9)
+  
+
+---
+
 ### 📓 Currently learning
 
 * <a href="#"><img alt="Java" src="https://img.shields.io/badge/Java-17-E98729?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAACXBIWXMAAAsTAAALEwEAmpwYAAABhUlEQVRIx93VSyhEURzH8UE0w0TYKI9QojyaspANDUoeZcXOa2FhR5SFlJJiQaws2CALi0lJEspCFrJBKRYSKQuy0FCkxvfkp25KzTV3Sm59mjndc//n3PM//3Ndrr94hUKhimgGj8datIKnYgNz0QhehWvsIxGtmIffieAdeMcevJjECTKcmv09zuBR+xHtTi7PplkOS9vkIeDkAGk4QqbaubhzOsnJaNP/QnRFGrBXSTU7pQgxP/SLQzF2MW1ngEUl8xXnOMSObGMF40hRfx+Cdt+iCctaknwx+chB+be+Q6ZG7A4wgme5lIfQ53WLWvXz4wB5v8lFmfJQJzVoRL0lB6WRJHtBM37CDV7UDqLlNwGTNFOf5fRsxgAGTQXrXPJYnkmwM4A5Ei5QaYKHeXyv2xlgVcswgwYUwG2570a2cjGMU4zqnjfcQczDU9rvV6qHN+0ms3uOsYS+r53DbzUm7LxJbBh9stCDLU3IVi7MR6VExdaNfoxhVsUXULV3It31b68PMH8swPmMzp0AAAAASUVORK5CYII=&logoColor=white"></a>
@@ -363,4 +376,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
 -->
