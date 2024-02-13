@@ -83,7 +83,7 @@ I am a mature Java Backend Developer with extensive experience in analysis, desi
 <a href="#"><img alt="Scrum" src="https://img.shields.io/static/v1?style=for-the-badge&label=&message=Scrum&color=4285F4"></a>
 <a href="#"><img alt="SOAP" src="https://img.shields.io/badge/SOAP-yellow?style=for-the-badge&logo=SoapUI&logoColor=black"></a>
 <a href="#"><img alt="SOLID" src="https://img.shields.io/static/v1?label=&message=SOLID&color=darkgreen&logoColor=white&labelColor=&style=for-the-badge"></a>
-<a href="#"><img alt="Sonarlint" src="https://img.shields.io/badge/Sonarlint-white?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAG2SURBVDhPjdPLK0RhGMfxGQss3GKNWRFSCmVhQ7ksRmoksRlKFogxySwoI8qGMQt3dv4BjSyQy9qwI0ky2JLLglE0vr9jHMMCT33meeac933P856L1fIjgra8ElI7KmGDxlxgD8uloZN9shnmAkxMIPnQiTts4AiKAtQgHQtwsVCY/LFAdPIaquCFnwEPZDMYk0LqwSh2YGfMM9k4OYsIHMaBX4Ix9dGx6sRipdCeg/Cy4ogO/hXMGSSNoSyOH92we2j//w0/btGhDk4pDtGKWroIcCyRWjdtHRHYscW5J87VUW9iEeVa4IViCMkYgBNZUIu9eMUMdHPPsIJJ3GBKW3hDJtJQiHE0IAdd6EMu1MUEiqAnojkRLXAFXdFDi7pCI5zUl+QWNFOHyG06R60te6CX7FxbmKdoQjYnH8lGcNzKf+3/W63gfxJJi66qgyWo/X6YETshto6GGxnQXGPFaejlUPu/BmMc0bHq3HyV40kB6NHp7vu4qr4HMxijLl0Yxjb0KodjPyYtosfTDd0LPetjKPJRjVTMwa3J5K+v8TNYqJikt7MCejqKa+xCn/OBccQIi+Udme6fNARoPjoAAAAASUVORK5CYII="></a>
+<a href="#"><img alt="Sonarlint" src="https://img.shields.io/badge/Sonarlint-white?style=for-the-badge&logo=sonarlint&logoColor=CB2029"></a>
 <a href="#"><img alt="SonarQube" src="https://img.shields.io/badge/SonarQube-white?style=for-the-badge&logo=SonarQube&logoColor=4e9bcd"></a>
 <a href="#"><img alt="Spring Framework" src="https://img.shields.io/badge/Spring%20Framework-6DB33F?style=for-the-badge&logo=spring&logoColor=white"></a>
 <a href="#"><img alt="Spring WebFlux" src="https://img.shields.io/badge/Spring%20WebFlux-80ea6e?style=for-the-badge&logo=react&logoColor=black"></a>
@@ -125,9 +125,6 @@ I am a mature Java Backend Developer with extensive experience in analysis, desi
 - 🥇 **Certified Scrum Developer**\
   📆 2015\
   🏛️ **Scrum Alliance**
-
-- 🥇 **Credly Certifications**\
-  [![Certifications](https://github-readme-widgets.vercel.app/api?username=francisco-alvarado)]
 
 ---
 
@@ -179,8 +176,13 @@ I am a mature Java Backend Developer with extensive experience in analysis, desi
 - 💼 **Development Consultant** at **Sofka Technologies**\
   📆 2022 - 2023\
   📍 (Remote) Medellín, Colombia\
+  <a href="#"><img alt="AKS" src="https://img.shields.io/badge/AKS-C2C2EF?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAOCAYAAAAmL5yKAAAACXBIWXMAABJ0AAASdAHeZh94AAADWklEQVQoz1WSbWxTVRjHjx80aPSDfDCa+Ilg+GDAaAw4YdCuve0t3QoO1rF1uK3dNHRjl9571/be3nvPub1tb1+2aRZ8i47xujFnHAbZmIgkbmXQyYsM6AiQQQIR46bQEEiM9vEOZ9Qv58l58vz/ec75/xAhBBEVI0Umj9e5hK2O5fgb3vLdVGr7UBmJSshXG7K4Vso9O8xHJ1Pbv7IpagRhVUYEGzpD++iIahjxgcgLjPWLQsj+7Z8R26liR/nPd7ny4e4WelcuZD/2h0CNG70796QNY3swNgyI8q+BGlMQx4gvJqtOQWbzBZDspyHj+A2Y0mxOdY/m39tyyehNQIaehYg5f0tRsLG1/I8BRlocoyAvPtti+rzYbj4BovksdDnv/s5v+Drpp3qnBev3IJhz0EUXQNk4cQBHRYTJ389ARJORIIVRe0B53t+ATZ632MZw3R6BBD5cFuTkxS31Kl3jYps5d6+uMbtXcqzwjBLRniIxAZFEEKEaU+KI1/RJ3lfS/6Cjevps6p3jDNOoUz7LzsnmN/sfpjZdupbxTcQDTanVb1PJow0lPXNk/blfEp6TvRHf/lq0rXQAuqqnQKTHIL7+OkTXzkEbNXS4q+Y8KM4saI5p0M0FaKEGDyWrJiBakQOVngLdOguh128DanrjAKQ3nQPBPgYJega0dXPQSg1+qVfmQHachBh9FfSyAvht/f3axjEgztOg2i8aBnMQWnXjIWqo0Dp9tu7h5tL9Nzu2nhnSdwyYGL+0dAslfeYp2ZlP1uaG0+ygJcTi57zliU/r13x8hVTk8vGmkbAUeH85iiWNPLUICrcrT3urhcrNNlYRPQf1BN/7cjioLPJ7xTX1lcK7gqdP0/m9K8QQeQJjjHA8iEhcQGj+EjU4YNukJVzZCIjUOMiWH6HTfh8458guxtH3k2AdN2KchA5bASRXduBRjFhZiHEBJLZVXpau+gGSxn/ItDFsvweM+UQ27jk20+m+CBEDpLT9VxCtFy4r8wwQ+T8oxzDi2pQl29b1FQKWI0XJNlnMuG7P8O6DvJ/uucxbR4sClYWM886s5B7VsSr9H+V5Go36WGMd+6rttcAHvPPwvoTc/aSa5pG3jl9V9krbR62mQ8dT7ftewgnOoBAv6Aj6C9PcwhEm0JHwAAAAAElFTkSuQmCC&logoColor=306adf"></a>
+  <a href="#"><img alt="API" src="https://img.shields.io/static/v1?label=&message=API&color=purple&logoColor=white"></a>
   <a href="#"><img alt="Azure Cloud" src="https://img.shields.io/badge/Azure-0085cf?logo=MicrosoftAzure&logoColor=white"></a>
   <a href="#"><img alt="Azure DevOps" src="https://img.shields.io/badge/Azure_DevOps-0078D7?logo=azuredevops&logoColor=white"></a>
+  <a href="#"><img alt="CD" src="https://img.shields.io/static/v1?label=&message=CD&color=purple&logoColor=white&labelColor="></a>
+  <a href="#"><img alt="CI" src="https://img.shields.io/static/v1?label=&message=CI&color=yellow&logoColor=white&labelColor="></a>
+  <a href="#"><img alt="Clean Code" src="https://img.shields.io/static/v1?label=&message=Clean%20Code&color=orange&logoColor=white"></a>
   <a href="#"><img alt="ConEmu" src="https://img.shields.io/badge/ConEmu-2b4d59?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABcAAAAWCAMAAAAcqPc3AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAFcUExURePJdoSMc1tuZVpuZWN0ZnaBaZCTbqahcWByZitNWCxOWDlWWlJnXnN9Y4OJZ5eWal9xZjNTWVxuYLWqbuHHdS9QWXyEZrutb9/GdZmXalttYFZqX6OebDpXW2Z1YrOobt7GdZKSaEdgXDFRWTpXWpaVamJzZ1BmXrqtb97FdZeVaS1PWGp5aG96Y5yaazxZW4OKbIOIZml3YpWWb5OUaVhrX5yZa7Gobmx5Y2JyYYWKZ6agbJ2ccJ6ccJuZak9lXjtYW6SfbMS0cbCoczxYW62lbqOfcZ2aa2NzYWV0Yl9wYXqDa2p3Yy5PWTVUWlVpXtvEdL6wcHuDZYGHZtO+c0FcW9jBdM26cniAZDBRWUZfXI2PZ93FdZ6bazhWWi5PWICGZs+7ctvDdI6PaFptYJWVab2wcH+GZr2vb7qub19wYDVUWZaWapaVaYOIZ1RoXy1OWJCTbaOgcY+SbaAbX2AAAAAJcEhZcwAAEnMAABJzAYwiuQcAAAE0SURBVChTdZFVU0NBDIXTUsvW5dbd3XAKFC1uRYu7O/9/huzdtnQYOA+Zk29ms7sn8K8Uyj6SSq3RglajVvFGqSCuQ2R6g9FkJm82GQ16hqgjb0G02uz8JJfDbrMiWshZmOR0uT1enx/8Pq/H7XJKTOaBYCgcicbiCUjEY9FIOBQMcJ5MpTPZHKLMEXPZTDqVJJ4vQLGEXY6lIhTyxMsVqEo9XKpCpUy8fwAGqcXAEAyPjJLGoDZOfGIS6pxPTVMjNDNLpcPnagKS5htUunMW2nMWl5ZXiP++l4u/P78Kpt53rq0zmSc3NreaP/9i2zu7ksihubd/0M6hdXh0fHJ6JnMmnV9cXoncrm/ct3ctkRvP+d5BTtbD45O4t7OXZ/Ivr8a3+LvYS2ePH5/Q+OrZ418C+AYQqS7DER8CPgAAAABJRU5ErkJggg==&logoColor=ffdc7c"></a>
   <a href="#"><img alt="DataGrip" src="https://img.shields.io/badge/DataGrip-2bcf98?logo=datagrip&logoColor=black"></a>
   <a href="#"><img alt="DBeaver" src="https://img.shields.io/badge/DBeaver-897262?logo=DBeaver&logoColor=white"></a>
@@ -190,6 +192,7 @@ I am a mature Java Backend Developer with extensive experience in analysis, desi
   <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05032?logo=Git&logoColor=white"></a>
   <a href="#"><img alt="GitLab" src="https://img.shields.io/badge/GitLab-white?logo=gitlab"></a>
   <a href="#"><img alt="Gradle" src="https://img.shields.io/badge/Gradle-022E38?logo=Gradle&logoColor=white"></a>
+  <a href="#"><img alt="Hexagonal architecture" src="https://img.shields.io/static/v1?label=&message=Hexagonal%20Architecture&color=darkcyan&logoColor=white&labelColor="></a>
   <a href="#"><img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJ%20IDEA-0687f3?logo=intellij-idea&logoColor=black"></a>
   <a href="#"><img alt="Jacoco" src="https://img.shields.io/badge/Jacoco-EFE6C9?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABIAAAASCAYAAABWzo5XAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAEnMAABJzAYwiuQcAAAGFSURBVDhPY9zUZfCfgQjgV3aBEcrEDtZ3GP7/+esPXnxlU+Z/QhYyQWmKAdPf/wgXL9x0nmHWmlMMk5ceg4pAABu3MIOyhiUDyFW4XMbyB2jQP6hUrK8hmGZCCw2QQSCgpGEBple2Mv8Prz6Loorlz1+gQVCTlm69wPDz12+Gnz//MPz6/Qcslh9nyyBqkMMA0gVzysVLllAWEpjfZPr/87ffcPwJRH/FgaFqFgD1QLXDAdUCm3FOven/kBJI4OZlJ4NpUsGiRYsYWX7/Y2L48x/h0m0li6AsVKCT58BQdeAAlIcAbQ4OYJrp9z9Ghr9//4MxDPx7gYlB4BMaRgZMf/4ADQK6CIRBAKTp/xdGDAwC79EwsmHUS9m//jMBvcUAxmABCWAM8PzHwCAgiIb5gBgGWP6CEySUBwSgQMUFpkADFhtgbCy0+R9XvhvMAdoNhCDbkdMxBCDzlnS6MtT1H0HJIoz1Bbb/QfkNzIFKwYwCATgbySRmxv8MjRMOoxhEJcDAAABehu+mM2AXOwAAAABJRU5ErkJggg==&logoColor=white"></a>
   <a href="#"><img alt="Java" src="https://img.shields.io/badge/Java-E98729?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAACXBIWXMAAAsTAAALEwEAmpwYAAABhUlEQVRIx93VSyhEURzH8UE0w0TYKI9QojyaspANDUoeZcXOa2FhR5SFlJJiQaws2CALi0lJEspCFrJBKRYSKQuy0FCkxvfkp25KzTV3Sm59mjndc//n3PM//3Ndrr94hUKhimgGj8datIKnYgNz0QhehWvsIxGtmIffieAdeMcevJjECTKcmv09zuBR+xHtTi7PplkOS9vkIeDkAGk4QqbaubhzOsnJaNP/QnRFGrBXSTU7pQgxP/SLQzF2MW1ngEUl8xXnOMSObGMF40hRfx+Cdt+iCctaknwx+chB+be+Q6ZG7A4wgme5lIfQ53WLWvXz4wB5v8lFmfJQJzVoRL0lB6WRJHtBM37CDV7UDqLlNwGTNFOf5fRsxgAGTQXrXPJYnkmwM4A5Ei5QaYKHeXyv2xlgVcswgwYUwG2570a2cjGMU4zqnjfcQczDU9rvV6qHN+0ms3uOsYS+r53DbzUm7LxJbBh9stCDLU3IVi7MR6VExdaNfoxhVsUXULV3It31b68PMH8swPmMzp0AAAAASUVORK5CYII=&logoColor=white"></a>
@@ -207,6 +210,9 @@ I am a mature Java Backend Developer with extensive experience in analysis, desi
   <a href="#"><img alt="Reactive Commons" src="https://img.shields.io/badge/Reactive%20Commons-157978?logo=react&logoColor=white"></a>
   <a href="#"><img alt="REST" src="https://img.shields.io/badge/REST-8800FF?logo=rest&logoColor=white"></a>
   <a href="#"><img alt="Scrum" src="https://img.shields.io/static/v1?label=&message=Scrum&color=4285F4"></a>
+  <a href="#"><img alt="SOAP" src="https://img.shields.io/badge/SOAP-yellow?logo=SoapUI&logoColor=black"></a>
+  <a href="#"><img alt="SOLID" src="https://img.shields.io/static/v1?label=&message=SOLID&color=darkgreen&logoColor=white&labelColor="></a>
+  <a href="#"><img alt="Sonarlint" src="https://img.shields.io/badge/Sonarlint-white?logo=sonarlint&logoColor=CB2029"></a>
   <a href="#"><img alt="SonarQube" src="https://img.shields.io/badge/SonarQube-white?logo=SonarQube&logoColor=4e9bcd"></a>
   <a href="#"><img alt="Spring Framework" src="https://img.shields.io/badge/Spring%20Framework-6DB33F?logo=spring&logoColor=white"></a>
   <a href="#"><img alt="Spring WebFlux" src="https://img.shields.io/badge/Spring%20WebFlux-80ea6e?logo=react&logoColor=black"></a>
