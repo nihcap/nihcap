@@ -107,24 +107,24 @@ I am a mature Java Backend Developer with extensive experience in analysis, desi
 ### 🎓 Formal Education
 
 - 🎓 **Systems Engineer**\
-  📆 2007\
-  🏛️ **University of Pamplona** - Pamplona, Colombia
+  🏛️ **University of Pamplona** - Pamplona, Colombia\
+  📆 2007
 
 ---
 
 ### 🥇 Certifications
 
 - 🥇 **EF SET English Certificate 81/100 (C2 Proficient)**\
-  📆 2022\
-  🏛️ **EF Standard English Test (EF SET)**
+  🏛️ **EF Standard English Test (EF SET)**\
+  📆 2022
 
 - 🥇 **Oracle Certified Associate, Java SE 7 Programmer**\
-  📆 2015\
-  🏛️ **Global Knowledge / Oracle**
+  🏛️ **Global Knowledge / Oracle**\
+  📆 2015
 
 - 🥇 **Certified Scrum Developer**\
-  📆 2015\
-  🏛️ **Scrum Alliance**
+  🏛️ **Scrum Alliance**\
+  📆 2015
 
 ---
 
@@ -164,8 +164,8 @@ I am a mature Java Backend Developer with extensive experience in analysis, desi
 
 
 - 👨🏻‍💻 **Independent Android Developer (Kotlin)**\
-  📆 2023\
   📍 Medellín, Colombia\
+  📆 2023\
   <a href="#"><img alt="Android Development" src="https://img.shields.io/badge/Android-83B81A?logo=android&logoColor=white"></a>
     <a href="#"><img alt="Android Studio" src="https://img.shields.io/badge/Android_Studio-3DDC84?logo=android-studio&logoColor=white"></a>
   <a href="#"><img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-b824f2?logo=kotlin&logoColor=white"></a>
@@ -174,8 +174,8 @@ I am a mature Java Backend Developer with extensive experience in analysis, desi
 ---
 
 - 💼 **Development Consultant** at **Sofka Technologies**\
-  📆 2022 - 2023\
   📍 (Remote) Medellín, Colombia\
+  📆 2022 - 2023\
   <a href="#"><img alt="AKS" src="https://img.shields.io/badge/AKS-C2C2EF?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAOCAYAAAAmL5yKAAAACXBIWXMAABJ0AAASdAHeZh94AAADWklEQVQoz1WSbWxTVRjHjx80aPSDfDCa+Ilg+GDAaAw4YdCuve0t3QoO1rF1uK3dNHRjl9571/be3nvPub1tb1+2aRZ8i47xujFnHAbZmIgkbmXQyYsM6AiQQQIR46bQEEiM9vEOZ9Qv58l58vz/ec75/xAhBBEVI0Umj9e5hK2O5fgb3vLdVGr7UBmJSshXG7K4Vso9O8xHJ1Pbv7IpagRhVUYEGzpD++iIahjxgcgLjPWLQsj+7Z8R26liR/nPd7ny4e4WelcuZD/2h0CNG70796QNY3swNgyI8q+BGlMQx4gvJqtOQWbzBZDspyHj+A2Y0mxOdY/m39tyyehNQIaehYg5f0tRsLG1/I8BRlocoyAvPtti+rzYbj4BovksdDnv/s5v+Drpp3qnBev3IJhz0EUXQNk4cQBHRYTJ389ARJORIIVRe0B53t+ATZ632MZw3R6BBD5cFuTkxS31Kl3jYps5d6+uMbtXcqzwjBLRniIxAZFEEKEaU+KI1/RJ3lfS/6Cjevps6p3jDNOoUz7LzsnmN/sfpjZdupbxTcQDTanVb1PJow0lPXNk/blfEp6TvRHf/lq0rXQAuqqnQKTHIL7+OkTXzkEbNXS4q+Y8KM4saI5p0M0FaKEGDyWrJiBakQOVngLdOguh128DanrjAKQ3nQPBPgYJega0dXPQSg1+qVfmQHachBh9FfSyAvht/f3axjEgztOg2i8aBnMQWnXjIWqo0Dp9tu7h5tL9Nzu2nhnSdwyYGL+0dAslfeYp2ZlP1uaG0+ygJcTi57zliU/r13x8hVTk8vGmkbAUeH85iiWNPLUICrcrT3urhcrNNlYRPQf1BN/7cjioLPJ7xTX1lcK7gqdP0/m9K8QQeQJjjHA8iEhcQGj+EjU4YNukJVzZCIjUOMiWH6HTfh8458guxtH3k2AdN2KchA5bASRXduBRjFhZiHEBJLZVXpau+gGSxn/ItDFsvweM+UQ27jk20+m+CBEDpLT9VxCtFy4r8wwQ+T8oxzDi2pQl29b1FQKWI0XJNlnMuG7P8O6DvJ/uucxbR4sClYWM886s5B7VsSr9H+V5Go36WGMd+6rttcAHvPPwvoTc/aSa5pG3jl9V9krbR62mQ8dT7ftewgnOoBAv6Aj6C9PcwhEm0JHwAAAAAElFTkSuQmCC&logoColor=306adf"></a>
   <a href="#"><img alt="API" src="https://img.shields.io/static/v1?label=&message=API&color=purple&logoColor=white"></a>
   <a href="#"><img alt="Azure Cloud" src="https://img.shields.io/badge/Azure-0085cf?logo=MicrosoftAzure&logoColor=white"></a>
@@ -225,14 +225,14 @@ I am a mature Java Backend Developer with extensive experience in analysis, desi
 ---
 
 - 💼 **Senior Software Developer** at **EPAM Systems Colombia S.A.S.**\
-  📆 2021\
-  📍 (Remote) Medellín, Colombia
+  📍 (Remote) Medellín, Colombia\
+  📆 2021
 
 ---
 
 - 💼 **Analyst Developer** at **MVM Ingeniería de Software S.A.S.**\
-  📆 2014 - 2021\
   📍 Medellín, Colombia\
+  📆 2014 - 2021\
   <a href="#"><img alt="Active Directory" src="https://img.shields.io/static/v1?logo=windows&label=&message=Active%20Directory&color=blue&logoColor=white&labelColor=blue"></a>
   <a href="#"><img alt="Apache Tomcat" src="https://img.shields.io/badge/Apache_Tomcat-F8DC75?logo=apachetomcat&logoColor=black"></a>
   <a href="#"><img alt="Azure DevOps" src="https://img.shields.io/badge/Azure_DevOps-0078D7?logo=azuredevops&logoColor=white"></a>
@@ -260,8 +260,8 @@ I am a mature Java Backend Developer with extensive experience in analysis, desi
 ---
 
 - 💼 **Java Developer** at **ADA S.A.**\
-  📆 2014\
   📍 Medellín, Colombia\
+  📆 2014\
   <a href="#"><img alt="Eclipse" src="https://img.shields.io/badge/Eclipse-2C2255?logo=eclipse&logoColor=white"></a>
   <a href="#"><img alt="GWT" src="https://img.shields.io/badge/GWT-E5E2D2?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAACXBIWXMAAAsTAAALEwEAmpwYAAABPklEQVQ4jWP4//8/AyWYIs1YDWjrKP2PjNOz4lAwUQbgsg2nAe9rEv9/Kg9Dwa8Lw/+DxF9OqAbTj6Nc4PiBr+X/6x6W/+EGIGt6leYD1vTyyvH/t5dN+391csv/W6f3gPnXyzL+X9ZV/H9ORer/aRlRiAEwTTAM0gRSfCMMYhMI33LU/39924r/WzxsUAwAYbABMAxy6utnN8AugBkIczbMQJDTQQZeM9cEY4blsqL/YRhkA8wmZHFkvJ+XCwUzwJwJwmCXAF0A8ivMlvPGahjOhhsADEIGkEIYBjkTZAAoHECaQRpBBsACEoSPairDNYMNgPkFhkGKH947D3YFyFaYzSBDQRhZM9gAkC3IGKQBbggwPEAGgb0EtH1XRT6KZrgByN5A9xIIg0Ie5BWYi2AYbAAoMaCbSiymSm4EAI+gi5KNHo25AAAAAElFTkSuQmCC&logoColor=white"></a>
   <a href="#"><img alt="Java" src="https://img.shields.io/badge/Java-E98729?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAACXBIWXMAAAsTAAALEwEAmpwYAAABhUlEQVRIx93VSyhEURzH8UE0w0TYKI9QojyaspANDUoeZcXOa2FhR5SFlJJiQaws2CALi0lJEspCFrJBKRYSKQuy0FCkxvfkp25KzTV3Sm59mjndc//n3PM//3Ndrr94hUKhimgGj8datIKnYgNz0QhehWvsIxGtmIffieAdeMcevJjECTKcmv09zuBR+xHtTi7PplkOS9vkIeDkAGk4QqbaubhzOsnJaNP/QnRFGrBXSTU7pQgxP/SLQzF2MW1ngEUl8xXnOMSObGMF40hRfx+Cdt+iCctaknwx+chB+be+Q6ZG7A4wgme5lIfQ53WLWvXz4wB5v8lFmfJQJzVoRL0lB6WRJHtBM37CDV7UDqLlNwGTNFOf5fRsxgAGTQXrXPJYnkmwM4A5Ei5QaYKHeXyv2xlgVcswgwYUwG2570a2cjGMU4zqnjfcQczDU9rvV6qHN+0ms3uOsYS+r53DbzUm7LxJbBh9stCDLU3IVi7MR6VExdaNfoxhVsUXULV3It31b68PMH8swPmMzp0AAAAASUVORK5CYII=&logoColor=white"></a>
@@ -273,8 +273,8 @@ I am a mature Java Backend Developer with extensive experience in analysis, desi
 ---
 
 - 👨🏻‍💻 **Independent Android Developer (Java)**\
-  📆 2013\
   📍 Medellín, Colombia\
+  📆 2013\
   <a href="#"><img alt="Android Development" src="https://img.shields.io/badge/Android-83B81A?logo=android&logoColor=white"></a>
   <a href="#"><img alt="Eclipse" src="https://img.shields.io/badge/Eclipse-2C2255?logo=eclipse&logoColor=white"></a>
   <a href="#"><img alt="Java" src="https://img.shields.io/badge/Java-E98729?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAACXBIWXMAAAsTAAALEwEAmpwYAAABhUlEQVRIx93VSyhEURzH8UE0w0TYKI9QojyaspANDUoeZcXOa2FhR5SFlJJiQaws2CALi0lJEspCFrJBKRYSKQuy0FCkxvfkp25KzTV3Sm59mjndc//n3PM//3Ndrr94hUKhimgGj8datIKnYgNz0QhehWvsIxGtmIffieAdeMcevJjECTKcmv09zuBR+xHtTi7PplkOS9vkIeDkAGk4QqbaubhzOsnJaNP/QnRFGrBXSTU7pQgxP/SLQzF2MW1ngEUl8xXnOMSObGMF40hRfx+Cdt+iCctaknwx+chB+be+Q6ZG7A4wgme5lIfQ53WLWvXz4wB5v8lFmfJQJzVoRL0lB6WRJHtBM37CDV7UDqLlNwGTNFOf5fRsxgAGTQXrXPJYnkmwM4A5Ei5QaYKHeXyv2xlgVcswgwYUwG2570a2cjGMU4zqnjfcQczDU9rvV6qHN+0ms3uOsYS+r53DbzUm7LxJbBh9stCDLU3IVi7MR6VExdaNfoxhVsUXULV3It31b68PMH8swPmMzp0AAAAASUVORK5CYII=&logoColor=white"></a>
@@ -283,8 +283,8 @@ I am a mature Java Backend Developer with extensive experience in analysis, desi
 ---
 
 - 💼 **Project Engineer** at **Pragma S.A.**\
-  📆 2011 - 2012\
   📍 Medellín, Colombia\
+  📆 2011 - 2012\
   <a href="#"><img alt="AJAX" src="https://img.shields.io/badge/AJAX-gray?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAHSSURBVDhPY2TAApKXXE45+OjrbCgXDOxluaPnxuoug3LhgAlKw0H0gksFMM0eMiyH3WRYz4LYBx9/XQqi0QGGAT//M4WBaHuej2ZT4kzspsUZm5iKMHeDJbEADC94zrx45vbb78Yc/74IXalxeQ8VxgkwXPD115//IJqT4R8zWIAAwGLAXzD9/TeEVkyfym7YfWKjStuJ/yAMFkQC2FwApn/8+v1bPWcBB5OcwabPvxn82JgZ/7MzMzKgG4IwoGy7jGjeSplvv/7+BnHv/PgnIiEo7MbIyOwm+efz5l9//zNy/Ph6SOLft0fIhsANUBEQfMwhLHUUGKoyIL6MgNCmp5yiG4P+nlI8XOfqBxJ78Y/5VBpbj1Yexx42EB8EUGIBZDLIaJjgnSoLuDzY1r+/Jt2ptcuHCoEBShiANGDTDAPAcICyEAAjEEEasWkGATYmTGEWKA0G6pXrefiFxRcxMjIKff38MfZKg8djqBQYsDFjmoDiAumvT/9wsjCbvv3JaM/Pw+0FFYYDLqZ/H6FMOMAwMXTCvprz37iaQWwFXqZHQIrpwed/4JixZHuju7jE5wqIDQNY/Zo+cWvY3q/CK6FcMPDmfKo3sTD4MpQLBQwMAM4SonMh/ybwAAAAAElFTkSuQmCC&logoColor=white"></a>
   <a href="#"><img alt="Apache Tomcat" src="https://img.shields.io/badge/Apache_Tomcat-F8DC75?logo=apachetomcat&logoColor=black"></a>
   <a href="#"><img alt="Aptana" src="https://img.shields.io/badge/Aptana_Studio-F1F3F4?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABIAAAARCAIAAABfOGuuAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAEnMAABJzAYwiuQcAAAMuSURBVDhPLdPLbtxUAIfxv+3j49t4rsnMJM2kSRNCkhY1JQpFArFizwbxCDxG2fAILGDJghVizwJFatWCSqkCBDVpEkqamyedyXhmbM85xz72IUg8wLf66dOUUgDY3kPn+bc4+w2ExCyb0Dqz62DDNhUWEdAI49k4YY7nSWcKG5/9l7158r189E1DnCqZpppRWL7XWTfnb0OxcOdhFp7nhmk4JYuahspDAX3jU8L2tuXjr1yNWSUPtB6GiaQVvX7LXLgPM+8dnGjKtkoVeOWM9WX/yE6ZKbrGF1uxO3zhuSbaM1he892aVu9gfjPvbJn+dJoX/nTbv7lOmovIEi08LquRXW8Tc3SQUSqJRWot3L0PrpcFgT0DLUYmZ7beQzKEpsBYOj4WpVqeiEwRHSa5Yul+0LvqDkHKqN5ApY18kp/93nv5DEkMuwynhDzr9vrdEQtzmtIy6SWppCVlVSK72ZhoAD/bPxx1T2USjpnc391ZeWeztbgAZfBM02kJMDS3TjLizy0vz7buyOk1eC3EPXb+Mrw4I1CkyPNxV/oKVRfNlZXNDxE32c7jq5Too1RHo6Mv3tPnNmFUkQoSBYQPqUr9IpkS3er4FdgYtIrWLSy85VCbF7ZOogGC18WrF/xkD5wBrnQ7hlkxMsmFNtSmeGUVtIFRiH+OcPg3j7grU+PBR34/CPaPTqMka7+9BlpGqisW61GfSyK8zvzGx7Q9r/q9vx79GPyyLeOx21winsp5MlGFifEALEG50Vi93ZhrILoHATQWcc1ITW2StetTwWGaJaHBE90xzLpjL7RayzdmQXXEbzC8gEbRXMfsKjwX4TkGA2j2VKNVt6+JuG8URE7fkQdPC53Fl13v1ydRcCplXll6V197HybSp9th8Fp4M6o67w16+SSy+LjgCck++Pxi908hhkTsxsFxEATEcpd0e7pWAzUOdn4eXJ7DqVnVpp9dqckkUw4Ky/jy6++Y1Ef7z+xsDJFwzg2D+Db1C47Lk+D4QLveqGCEXxVRl6hMcyrk5ub/vyV//GQ8/0FdHsWiiFIYlCqdJHHk2pZDiYZCCJYmQ5/qul0y737yL33WrrZEEZDxAAAAAElFTkSuQmCC&logoColor=white"></a>
@@ -320,8 +320,8 @@ I am a mature Java Backend Developer with extensive experience in analysis, desi
 ---
 
 - 💼 **Analyst Developer** at **LandSoft S.A.S.**\
-  📆 2009 - 2010\
   📍 Medellín, Colombia\
+  📆 2009 - 2010\
   <a href="#"><img alt="AJAX" src="https://img.shields.io/badge/AJAX-gray?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAHSSURBVDhPY2TAApKXXE45+OjrbCgXDOxluaPnxuoug3LhgAlKw0H0gksFMM0eMiyH3WRYz4LYBx9/XQqi0QGGAT//M4WBaHuej2ZT4kzspsUZm5iKMHeDJbEADC94zrx45vbb78Yc/74IXalxeQ8VxgkwXPD115//IJqT4R8zWIAAwGLAXzD9/TeEVkyfym7YfWKjStuJ/yAMFkQC2FwApn/8+v1bPWcBB5OcwabPvxn82JgZ/7MzMzKgG4IwoGy7jGjeSplvv/7+BnHv/PgnIiEo7MbIyOwm+efz5l9//zNy/Ph6SOLft0fIhsANUBEQfMwhLHUUGKoyIL6MgNCmp5yiG4P+nlI8XOfqBxJ78Y/5VBpbj1Yexx42EB8EUGIBZDLIaJjgnSoLuDzY1r+/Jt2ptcuHCoEBShiANGDTDAPAcICyEAAjEEEasWkGATYmTGEWKA0G6pXrefiFxRcxMjIKff38MfZKg8djqBQYsDFjmoDiAumvT/9wsjCbvv3JaM/Pw+0FFYYDLqZ/H6FMOMAwMXTCvprz37iaQWwFXqZHQIrpwed/4JixZHuju7jE5wqIDQNY/Zo+cWvY3q/CK6FcMPDmfKo3sTD4MpQLBQwMAM4SonMh/ybwAAAAAElFTkSuQmCC&logoColor=white"></a>
   <a href="#"><img alt="Apache Tomcat" src="https://img.shields.io/badge/Apache_Tomcat-F8DC75?logo=apachetomcat&logoColor=black"></a>
   <a href="#"><img alt="Aptana" src="https://img.shields.io/badge/Aptana_Studio-F1F3F4?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABIAAAARCAIAAABfOGuuAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAEnMAABJzAYwiuQcAAAMuSURBVDhPLdPLbtxUAIfxv+3j49t4rsnMJM2kSRNCkhY1JQpFArFizwbxCDxG2fAILGDJghVizwJFatWCSqkCBDVpEkqamyedyXhmbM85xz72IUg8wLf66dOUUgDY3kPn+bc4+w2ExCyb0Dqz62DDNhUWEdAI49k4YY7nSWcKG5/9l7158r189E1DnCqZpppRWL7XWTfnb0OxcOdhFp7nhmk4JYuahspDAX3jU8L2tuXjr1yNWSUPtB6GiaQVvX7LXLgPM+8dnGjKtkoVeOWM9WX/yE6ZKbrGF1uxO3zhuSbaM1he892aVu9gfjPvbJn+dJoX/nTbv7lOmovIEi08LquRXW8Tc3SQUSqJRWot3L0PrpcFgT0DLUYmZ7beQzKEpsBYOj4WpVqeiEwRHSa5Yul+0LvqDkHKqN5ApY18kp/93nv5DEkMuwynhDzr9vrdEQtzmtIy6SWppCVlVSK72ZhoAD/bPxx1T2USjpnc391ZeWeztbgAZfBM02kJMDS3TjLizy0vz7buyOk1eC3EPXb+Mrw4I1CkyPNxV/oKVRfNlZXNDxE32c7jq5Too1RHo6Mv3tPnNmFUkQoSBYQPqUr9IpkS3er4FdgYtIrWLSy85VCbF7ZOogGC18WrF/xkD5wBrnQ7hlkxMsmFNtSmeGUVtIFRiH+OcPg3j7grU+PBR34/CPaPTqMka7+9BlpGqisW61GfSyK8zvzGx7Q9r/q9vx79GPyyLeOx21winsp5MlGFifEALEG50Vi93ZhrILoHATQWcc1ITW2StetTwWGaJaHBE90xzLpjL7RayzdmQXXEbzC8gEbRXMfsKjwX4TkGA2j2VKNVt6+JuG8URE7fkQdPC53Fl13v1ydRcCplXll6V197HybSp9th8Fp4M6o67w16+SSy+LjgCck++Pxi908hhkTsxsFxEATEcpd0e7pWAzUOdn4eXJ7DqVnVpp9dqckkUw4Ky/jy6++Y1Ef7z+xsDJFwzg2D+Db1C47Lk+D4QLveqGCEXxVRl6hMcyrk5ub/vyV//GQ8/0FdHsWiiFIYlCqdJHHk2pZDiYZCCJYmQ5/qul0y737yL33WrrZEEZDxAAAAAElFTkSuQmCC&logoColor=white"></a>
@@ -346,8 +346,8 @@ I am a mature Java Backend Developer with extensive experience in analysis, desi
 ---
 
 - 💼 **Junior Consultant** at **Assist Consultores de Sistemas S.A.**\
-  📆 2009\
   📍 Medellín, Colombia\
+  📆 2009\
   <a href="#"><img alt="Adobe Flex" src="https://img.shields.io/badge/Adobe_Flex-91A7B2?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAL6SURBVDhPdVPbThNRFF3MdDpTSlQM1wKhopAYIQgqBJCLoEKCQRMTExJCTPQJPsAHn/wDX/RJCeENYqJ+AIYEUC5VbuXaWKBAsS1QCm2ndG7uMwmGGF3Jmsw+s9c6Z+99JgX/RhqxjFhoRsAmcYEYNaMz+NsgldhTdrP2eVVVVVFhQb7A8Rx2/LuKyzXtnR4beUff3xLjLJnhrIED4oWBru6ulsaGeuTnOWAVBGi6Dl3TEAiFMDb+FX39A8PaUbCb8v1MxLMHwcbZ04c6u7rv1tTUwJ5qx3FUxlE0ClGwwP8rBN4iICMzC5lZWUVziyvlhiJ/IJ16atBbf6+9p/x6BSyUKCdOIFh4dLQ2wlmQB9f8EmQ5SesJSDYbBKu1yLviDpFukhlIuc6SN1euluWwj7oBKKqGx+0tZGZB3+BnEitIqipOkkmTOlUeCIZyY5GDfo4MnBk5ecWiKNEOChqqy/H0yQPkZmdS3ftou1NHRjwqS0vwqLUJKpmzcrId+cVMywwyraIo8DwPjksxEwocOQgfHuGba858f9b5EI21t7AfjkA+ScKgU1pFSWBaZhBVVUUnwCZaEYsnqPMG5pfW4Pb4sO7bRsbFdCiKiskZNzSaCOVTnNSZlhmsh0OB3b3wIW5XV6LtfhOWPV4Mj7vQXHcDRU4nxqdnEZNP0NHWTLsbiMXiYBqmZU1MHEcOyx2Flyrsaefg8fowOvEDBp1ClCR4Nnz4MjqF9a0dHJNwfdOHXb8fSzNTH3U1OWiO0dC1uDU1rSuhImVvP2z2guc4BPcO6A4EQCGC1NDF5VVEjiLwedeMgO/nC5J6T++B9yCwky+mna+0pbLbTM3UVKpXpZEqNEYZcTlO/Yljd2sDCxMj76mW10x4asAwEtreuKyCv8bTFeZoKjqVwZqmKAqOzZ09cE+PDWmq0kv5SSY6a8AWPh0G/YFoNFooiVK6ZBV4ztAR3g8py/Pfl1dnp17pmvqS8hKmgvC/39lOLCU6zQjYILqJMTP6A+A35GJk8aP8owwAAAAASUVORK5CYII=&logoColor=white"></a>
   <a href="#"><img alt="AJAX" src="https://img.shields.io/badge/AJAX-gray?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAHSSURBVDhPY2TAApKXXE45+OjrbCgXDOxluaPnxuoug3LhgAlKw0H0gksFMM0eMiyH3WRYz4LYBx9/XQqi0QGGAT//M4WBaHuej2ZT4kzspsUZm5iKMHeDJbEADC94zrx45vbb78Yc/74IXalxeQ8VxgkwXPD115//IJqT4R8zWIAAwGLAXzD9/TeEVkyfym7YfWKjStuJ/yAMFkQC2FwApn/8+v1bPWcBB5OcwabPvxn82JgZ/7MzMzKgG4IwoGy7jGjeSplvv/7+BnHv/PgnIiEo7MbIyOwm+efz5l9//zNy/Ph6SOLft0fIhsANUBEQfMwhLHUUGKoyIL6MgNCmp5yiG4P+nlI8XOfqBxJ78Y/5VBpbj1Yexx42EB8EUGIBZDLIaJjgnSoLuDzY1r+/Jt2ptcuHCoEBShiANGDTDAPAcICyEAAjEEEasWkGATYmTGEWKA0G6pXrefiFxRcxMjIKff38MfZKg8djqBQYsDFjmoDiAumvT/9wsjCbvv3JaM/Pw+0FFYYDLqZ/H6FMOMAwMXTCvprz37iaQWwFXqZHQIrpwed/4JixZHuju7jE5wqIDQNY/Zo+cWvY3q/CK6FcMPDmfKo3sTD4MpQLBQwMAM4SonMh/ybwAAAAAElFTkSuQmCC&logoColor=white"></a>
   <a href="#"><img alt="CSS" src="https://img.shields.io/static/v1?label=&message=CSS&color=065BC4"></a>
@@ -370,8 +370,8 @@ I am a mature Java Backend Developer with extensive experience in analysis, desi
 ---
 
 - 💼 **Analyst Developer** at **Plataforma Universidad de Pamplona**\
-  📆 2007 - 2008\
   📍 Pamplona, Colombia\
+  📆 2007 - 2008\
   <a href="#"><img alt="AJAX" src="https://img.shields.io/badge/AJAX-gray?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAHSSURBVDhPY2TAApKXXE45+OjrbCgXDOxluaPnxuoug3LhgAlKw0H0gksFMM0eMiyH3WRYz4LYBx9/XQqi0QGGAT//M4WBaHuej2ZT4kzspsUZm5iKMHeDJbEADC94zrx45vbb78Yc/74IXalxeQ8VxgkwXPD115//IJqT4R8zWIAAwGLAXzD9/TeEVkyfym7YfWKjStuJ/yAMFkQC2FwApn/8+v1bPWcBB5OcwabPvxn82JgZ/7MzMzKgG4IwoGy7jGjeSplvv/7+BnHv/PgnIiEo7MbIyOwm+efz5l9//zNy/Ph6SOLft0fIhsANUBEQfMwhLHUUGKoyIL6MgNCmp5yiG4P+nlI8XOfqBxJ78Y/5VBpbj1Yexx42EB8EUGIBZDLIaJjgnSoLuDzY1r+/Jt2ptcuHCoEBShiANGDTDAPAcICyEAAjEEEasWkGATYmTGEWKA0G6pXrefiFxRcxMjIKff38MfZKg8djqBQYsDFjmoDiAumvT/9wsjCbvv3JaM/Pw+0FFYYDLqZ/H6FMOMAwMXTCvprz37iaQWwFXqZHQIrpwed/4JixZHuju7jE5wqIDQNY/Zo+cWvY3q/CK6FcMPDmfKo3sTD4MpQLBQwMAM4SonMh/ybwAAAAAElFTkSuQmCC&logoColor=white"></a>
   <a href="#"><img alt="CASE Studio" src="https://img.shields.io/badge/CASE_Studio-white?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABUAAAAVCAIAAAAmdTLBAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAEnMAABJzAYwiuQcAAARKSURBVDhPbVNtTBt1HL7X9l56HfRtrbRAhzIEIWXCJE4nmqAwRsbCHDPqB91idEYTF4lZ4kxY1A/OLPptaubilgm6BMZmiMmW8mIlvCzTDdiAltdSYAO5Hu317np3//O6dh9kPvkl9/J7nvv98/yegzVNg/4PqqqOj4+P3RmrqamxWWwwDGca/wWSuT5EMpkUBEG/iSxG2rp/6Yj+1tr5ObvBpruPYrOe4zh/v18fe3G6I54vjfeMTs1MBgYCmfYj2Hz+60P+U4FvaISayl6oJqtst80hck7KUYrJkgMl+0pLizO8h9isP93+7fn77YRGkLkUoRmNqDEmxmVUfnya2527ReVfPnzkWIb6AJvPn1jjDZQBoRH1H0VEkpwWk0X5MASOvuhwWWC35zK7yvb19l3rvZbmp+YDFYwFR7/uOl2RBYe0O3+uwAlBYTCkkES8JFKeT5M0ztC4gGrf966NrEed5TYFoAeZxo8bPoQBADfGht/96WhukeuJ5Hqjz2pmcILEcCyzMKBBqgx6hrlLU0lW4uuKaIzC/ZjBHgZvln2AcHHuh8FzdIkNYxTSYAhM8hSF6TJZ0dIFAKQALcCJgKYavIa3djtefcoMBGWr3Xoi8CWyIcYW8fsqAt5w4furrDAMzvojqqphGJwuUVS6riyOSZBJWDtU7QIQRNF4EYFMYKwFQCkOZaDKZK7MTcEIHJM0KCKMDCzJEMbHZFkGFAHX1z7mnd1wWhkUR/QgygooZtBb9xJ2AUMYo8lJOwJxRJL1T0OmqLi31h2Nafle2wvVOdUvuQtLXOcvzqEK5LBRIq/MBFk9yh4zSlAEX2VCTLTJjjiBE+4PxuIbkqoCxozX1buDk9HOq/zlq4mJu7Hmg7k7dlhxHDaQWDyRygtAIElVVE1N7W8+PH9y8Kvp2EhdAq2udCQSIC+P0ocgMKSHS6frduiP4cWEJ4caHWV9PkvbnNi9LskRMZWfPE/eiWdaGr1vJxIMRaAUjQGg6Rrd/NQINR1QeGVZQBHdIqhvVe6PytKycLz8WCZ/Ai8kR+OSohoMiCwpGIakK93VofvMUJDu0BVWvbQib7Bq687jDc/uTa36XOeFI/6PUIAfctkx3Loe3ZmUXbHYkAKFSJxL6yXV9dcNsP1JbfZuLIyu/dp03lfh09/Dy/eW93/WBDmwhrI9JZhze3FfaFJzO5u3FT7NMDZJkHSSIisLK+MSf+ZWMHJmSjJ6SGuY/LmljSAJ9JUDtTP48qfPt7xe81pRke/vSWR+5vpEsGM2FNqSVWCx28OR2+z6UGS1mzZKP/4OV5Y9F1qZ5jmpqWIfRVNwz3Cvx+0pcG17cExIUZSBgS6LLXspPMELWYo8MbfwR5ZZdW212OzNnwx+11p58p329081flFfvQfTXdEFKIqmxWmIomg0GvXthsNhjg0SFGoksvWfKSs73/tewdLZpZvTN3eV7kpRIehfaLsWLGP62QYAAAAASUVORK5CYII=&logoColor=white"></a>
   <a href="#"><img alt="CSS" src="https://img.shields.io/static/v1?label=&message=CSS&color=065BC4"></a>
