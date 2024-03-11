@@ -114,6 +114,10 @@ I am a mature Java Backend Developer with extensive experience in analysis, desi
 
 ### 🥇 Certifications
 
+- 🥇 **Scrum Fundamentals Certified**\
+  🏛️ **SCRUMstudy**\
+  📆 2024
+
 - 🥇 **EF SET English Certificate 81/100 (C2 Proficient)**\
   🏛️ **EF Standard English Test (EF SET)**\
   📆 2022
