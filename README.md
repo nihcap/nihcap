@@ -160,7 +160,6 @@ I am a mature Java Backend Developer with extensive experience in analysis, desi
 
 * <a href="#"><img alt="Java" src="https://img.shields.io/badge/Java-17-E98729?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAACXBIWXMAAAsTAAALEwEAmpwYAAABhUlEQVRIx93VSyhEURzH8UE0w0TYKI9QojyaspANDUoeZcXOa2FhR5SFlJJiQaws2CALi0lJEspCFrJBKRYSKQuy0FCkxvfkp25KzTV3Sm59mjndc//n3PM//3Ndrr94hUKhimgGj8datIKnYgNz0QhehWvsIxGtmIffieAdeMcevJjECTKcmv09zuBR+xHtTi7PplkOS9vkIeDkAGk4QqbaubhzOsnJaNP/QnRFGrBXSTU7pQgxP/SLQzF2MW1ngEUl8xXnOMSObGMF40hRfx+Cdt+iCctaknwx+chB+be+Q6ZG7A4wgme5lIfQ53WLWvXz4wB5v8lFmfJQJzVoRL0lB6WRJHtBM37CDV7UDqLlNwGTNFOf5fRsxgAGTQXrXPJYnkmwM4A5Ei5QaYKHeXyv2xlgVcswgwYUwG2570a2cjGMU4zqnjfcQczDU9rvV6qHN+0ms3uOsYS+r53DbzUm7LxJbBh9stCDLU3IVi7MR6VExdaNfoxhVsUXULV3It31b68PMH8swPmMzp0AAAAASUVORK5CYII=&logoColor=white"></a>
 * <a href="#"><img alt="Android Development" src="https://img.shields.io/badge/Android-13-green?style=for-the-badge&logo=android&logoColor=white"></a>
-* <a href="#"><img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-1.8-b824f2?style=for-the-badge&logo=kotlin&logoColor=white"></a>
 * <a href="#"><img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-7.0-116149?style=for-the-badge&logo=MongoDB&logoColor=white"></a>
 
 
@@ -192,7 +191,6 @@ I am a mature Java Backend Developer with extensive experience in analysis, desi
   <a href="#"><img alt="DBeaver" src="https://img.shields.io/badge/DBeaver-897262?logo=DBeaver&logoColor=white"></a>
   <a href="#"><img alt="Diagrams.net" src="https://img.shields.io/badge/Diagrams.net-white?logo=Diagrams.net&logoColor=f08705"></a>
   <a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-0997e5?logo=docker&logoColor=white"></a>
-  <a href="#"><img alt="Figma" src="https://img.shields.io/badge/Figma-A359FF?logo=Figma&logoColor=white"></a>
   <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05032?logo=Git&logoColor=white"></a>
   <a href="#"><img alt="GitLab" src="https://img.shields.io/badge/GitLab-white?logo=gitlab"></a>
   <a href="#"><img alt="Gradle" src="https://img.shields.io/badge/Gradle-022E38?logo=Gradle&logoColor=white"></a>
