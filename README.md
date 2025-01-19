@@ -202,7 +202,7 @@ I am a mature Java Backend Developer with extensive experience in analysis, desi
 
 - 👨🏻‍💻 **Independent Android Developer (Kotlin)**\
   🌎 Medellín, Colombia\
-  📆 2023\
+  📆 2023 - 2024\
   <a href="#"><img alt="Android Development" src="https://img.shields.io/badge/Android-83B81A?logo=android&logoColor=white"></a>
     <a href="#"><img alt="Android Studio" src="https://img.shields.io/badge/Android_Studio-3DDC84?logo=android-studio&logoColor=white"></a>
   <a href="#"><img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-b824f2?logo=kotlin&logoColor=white"></a>
