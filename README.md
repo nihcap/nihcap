@@ -38,7 +38,7 @@ Early adopter and practitioner of **Agentic Development** using modern AI IDEs:
 <a href="#"><img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-116149?style=for-the-badge&logo=MongoDB&logoColor=white"></a>
 <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"></a>
 <a href="#"><img alt="Oracle" src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAGUExURf///wAAAFXC034AAAACdFJOU/8A5bcwSgAAAAlwSFlzAAAOwwAADsMBx2+oZAAAABl0RVh0U29mdHdhcmUAUGFpbnQuTkVUIDUuMS4xMhMBR3QAAAC4ZVhJZklJKgAIAAAABQAaAQUAAQAAAEoAAAAbAQUAAQAAAFIAAAAoAQMAAQAAAAMAAAAxAQIAEQAAAFoAAABphwQAAQAAAGwAAAAAAAAAo5MAAOgDAACjkwAA6AMAAFBhaW50Lk5FVCA1LjEuMTIAAAMAAJAHAAQAAAAwMjMwAaADAAEAAAABAAAABaAEAAEAAACWAAAAAAAAAAIAAQACAAQAAABSOTgAAgAHAAQAAAAwMTAwAAAAAAd3fp62zNoUAAAALklEQVQoU2NgRAMMRAkwwAFYAMEFC4EEkNSD5VFMgGokTQDDUExrMRyGBggLAABi0AC5VFQnFgAAAABJRU5ErkJggg=="></a>
-<a href="#"><img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-005C84?style=for-the-badge&logo=postgresql&logoColor=white"></a>
+<a href="#"><img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"></a>
 <a href="#"><img alt="SQL" src="https://img.shields.io/badge/SQL-orange?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAA40lEQVQ4y63TrQ6CUBwFcBgbGw0JVG0m34FmIWoykQzMNzD5DjRfAJKJ5CYQJJuMForMQCPicTtuiHz5EX4b/D33sOvuFYqiEBroMCa9KVd+kWABPmSQwpmunPnMSNUCGQ4Qwgy0mq9p/C1kVi4XmHAEsWVLTyKzZrlgDjmsQGlZrDCTc81LQQw77nUPDmzI4SxjJq4r8PiswhRsWJPNmcqM11bQR23BBUY9Fg+ZfStI4AYuLMGACRmcucwkTVsYgAVbCOBEAWcWM///Dx6HIvrgIEXVg/TzUe66TGnXZfr6Ot8BXto/aD9KoQ4AAAAASUVORK5CYII=&logoColor=white"></a>
 
 ### ☁️ DevOps & Cloud
@@ -236,7 +236,7 @@ Early adopter and practitioner of **Agentic Development** using modern AI IDEs:
   <a href="#"><img alt="Mermaid Diagrams" src="https://img.shields.io/badge/Mermaid-FF3670?logo=mermaid&logoColor=fff"></a>
   <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-005C84?logo=mysql&color=4479A1&logoColor=white"></a>
   <a href="#"><img alt="Notepad++" src="https://img.shields.io/badge/Notepad++-90E59A.svg?logo=notepad%2B%2B&logoColor=black"></a>
-  <a href="#"><img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-005C84?logo=postgresql&logoColor=white"></a>
+  <a href="#"><img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white"></a>
   <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-f2f2f2?logo=Postman&logoColor=f76935"></a>
   <a href="#"><img alt="REST" src="https://img.shields.io/badge/REST-8800FF?logo=rest&logoColor=white"></a>
   <a href="#"><img alt="Scrum" src="https://img.shields.io/badge/Scrum-009FDA?logo=scrumalliance&logoColor=fff"></a>
@@ -341,7 +341,7 @@ Early adopter and practitioner of **Agentic Development** using modern AI IDEs:
   <a href="#"><img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-116149?logo=MongoDB&logoColor=white"></a>
   <a href="#"><img alt="Oracle" src="https://img.shields.io/badge/Oracle-F80000?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAGUExURf///wAAAFXC034AAAACdFJOU/8A5bcwSgAAAAlwSFlzAAAOwwAADsMBx2+oZAAAABl0RVh0U29mdHdhcmUAUGFpbnQuTkVUIDUuMS4xMhMBR3QAAAC4ZVhJZklJKgAIAAAABQAaAQUAAQAAAEoAAAAbAQUAAQAAAFIAAAAoAQMAAQAAAAMAAAAxAQIAEQAAAFoAAABphwQAAQAAAGwAAAAAAAAAo5MAAOgDAACjkwAA6AMAAFBhaW50Lk5FVCA1LjEuMTIAAAMAAJAHAAQAAAAwMjMwAaADAAEAAAABAAAABaAEAAEAAACWAAAAAAAAAAIAAQACAAQAAABSOTgAAgAHAAQAAAAwMTAwAAAAAAd3fp62zNoUAAAALklEQVQoU2NgRAMMRAkwwAFYAMEFC4EEkNSD5VFMgGokTQDDUExrMRyGBggLAABi0AC5VFQnFgAAAABJRU5ErkJggg==&logoColor=white"></a>
   <a href="#"><img alt="Podman" src="https://img.shields.io/badge/Podman-892ca0?logo=podman&logoColor=white"></a>
-  <a href="#"><img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-005C84?logo=postgresql&logoColor=white"></a>
+  <a href="#"><img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white"></a>
   <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-f2f2f2?logo=Postman&logoColor=f76935"></a>
   <a href="#"><img alt="Reactive Commons" src="https://img.shields.io/badge/Reactive%20Commons-157978?logo=react&logoColor=white"></a>
   <a href="#"><img alt="REST" src="https://img.shields.io/badge/REST-8800FF?logo=rest&logoColor=white"></a>
@@ -517,7 +517,7 @@ Early adopter and practitioner of **Agentic Development** using modern AI IDEs:
   <a href="#"><img alt="JSP" src="https://img.shields.io/static/v1?label=&message=JSP&color=74A33B"></a>
   <a href="#"><img alt="Notepad++" src="https://img.shields.io/badge/Notepad++-90E59A.svg?logo=notepad%2B%2B&logoColor=black"></a>
   <a href="#"><img alt="Oracle JDeveloper" src="https://img.shields.io/static/v1?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAGUExURf///wAAAFXC034AAAACdFJOU/8A5bcwSgAAAAlwSFlzAAAOwwAADsMBx2+oZAAAABl0RVh0U29mdHdhcmUAUGFpbnQuTkVUIDUuMS4xMhMBR3QAAAC4ZVhJZklJKgAIAAAABQAaAQUAAQAAAEoAAAAbAQUAAQAAAFIAAAAoAQMAAQAAAAMAAAAxAQIAEQAAAFoAAABphwQAAQAAAGwAAAAAAAAAo5MAAOgDAACjkwAA6AMAAFBhaW50Lk5FVCA1LjEuMTIAAAMAAJAHAAQAAAAwMjMwAaADAAEAAAABAAAABaAEAAEAAACWAAAAAAAAAAIAAQACAAQAAABSOTgAAgAHAAQAAAAwMTAwAAAAAAd3fp62zNoUAAAALklEQVQoU2NgRAMMRAkwwAFYAMEFC4EEkNSD5VFMgGokTQDDUExrMRyGBggLAABi0AC5VFQnFgAAAABJRU5ErkJggg==&label=&message=Oracle%20JDeveloper&color=9AB5D1&logoColor=white"></a>
-  <a href="#"><img alt="PostgreSQL" src="https://img.shields.io/badge/Postgresql-005C84?logo=postgresql&color=005C84&logoColor=white"></a>
+  <a href="#"><img alt="PostgreSQL" src="https://img.shields.io/badge/Postgresql-4169E1?logo=postgresql&color=005C84&logoColor=white"></a>
 
 
 ---
