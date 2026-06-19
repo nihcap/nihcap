@@ -29,7 +29,6 @@ Early adopter and practitioner of **Agentic Development** using modern AI IDEs:
 <a href="#"><img alt="Hibernate" src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white"></a>
 <a href="#"><img alt="JPA" src="https://img.shields.io/static/v1?label=&message=JPA&color=4298B8&labelColor=4298B8&style=for-the-badge"></a>
 <a href="#"><img alt="Lombok" src="https://img.shields.io/badge/Lombok-FEE0EB?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABIAAAASCAYAAABWzo5XAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAEnMAABJzAYwiuQcAAAEkSURBVDhPYxgF9AOMB09M/v/+w0sGTg4OBneHGkaoOMmAccm6+P8xQQvhBpxdtej/i5vXGf79+M7Awc7KwMbHz2BfQNgCxmkLvP5nJWxjPNha/v/85aUMki+5GTj/MTH8/f2LgYGZmYGTX5CBRUiUgUlRjcGpsQ+ngWCJibNt/79+c5vhy48/DFyfGBlMjvMysDAj9LDy8DGwsHMw/Aa68isHD4NuTCqDRlg8iqFwzpxyu/9nvt1gUP7CzKB2kwss8/f/f4avDP8YuFhYGP4DBRj//mNgBar9B2Qz8fIx8Dl4MThUtIDNQDH1wJzG/x+Pn2P4/fETg6CGHoNzy0QUeRC4PGfi/2fnjjF8fPqI4e/3Hwx/ZZQZYuatwVA3CkYQYGAAAKHNXwcwUemzAAAAAElFTkSuQmCC&logoColor=white"></a>
-
 <a href="#"><img alt="Android Development (Java)" src="https://img.shields.io/badge/Android-83B81A?style=for-the-badge&logo=android&logoColor=white"></a>
 
 ### 🗄️ Databases
