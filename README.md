@@ -1,6 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Francisco%20Alvarado&fontSize=50&fontAlignY=35&desc=Senior%20Backend%20Java%20Developer&descAlignY=55)
 
-
 ## 💻 Summary
 
 - 🏗️ **17+ years** building robust, scalable backend systems with **Java & Spring**.
@@ -9,18 +8,18 @@
 - 🌐 Full SDLC experience across **telecom, retail, utilities, healthcare, and banking**.
 - 🎯 C2 English proficiency — ready for **global teams**.
 
-
 ## 🤖 AI-Assisted Development
 
 Early adopter and practitioner of **Agentic Development** using modern AI IDEs:
+
 - **Kiro** (AWS) and **Antigravity** (Google DeepMind) for spec-driven development.
 - Experience designing **Skills.md** and **Agents.md** for workflow automation.
 - Led a pilot achieving **93.75% time reduction** in implementation phases.
 
-
 ## 💪🏻 Skill Set
 
 ### 🔑 Core Stack
+
 <a href="#"><img alt="Java" src="https://img.shields.io/badge/Java-E98729?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAACXBIWXMAAAsTAAALEwEAmpwYAAABhUlEQVRIx93VSyhEURzH8UE0w0TYKI9QojyaspANDUoeZcXOa2FhR5SFlJJiQaws2CALi0lJEspCFrJBKRYSKQuy0FCkxvfkp25KzTV3Sm59mjndc//n3PM//3Ndrr94hUKhimgGj8datIKnYgNz0QhehWvsIxGtmIffieAdeMcevJjECTKcmv09zuBR+xHtTi7PplkOS9vkIeDkAGk4QqbaubhzOsnJaNP/QnRFGrBXSTU7pQgxP/SLQzF2MW1ngEUl8xXnOMSObGMF40hRfx+Cdt+iCctaknwx+chB+be+Q6ZG7A4wgme5lIfQ53WLWvXz4wB5v8lFmfJQJzVoRL0lB6WRJHtBM37CDV7UDqLlNwGTNFOf5fRsxgAGTQXrXPJYnkmwM4A5Ei5QaYKHeXyv2xlgVcswgwYUwG2570a2cjGMU4zqnjfcQczDU9rvV6qHN+0ms3uOsYS+r53DbzUm7LxJbBh9stCDLU3IVi7MR6VExdaNfoxhVsUXULV3It31b68PMH8swPmMzp0AAAAASUVORK5CYII=&logoColor=white"></a>
 <a href="#"><img alt="Reactive Java" src="https://img.shields.io/badge/Reactive%20Commons-157978?style=for-the-badge&logo=react&logoColor=white"></a>
 <a href="#"><img alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot%20-white?style=for-the-badge&logo=springboot&logoColor=6DB33F"></a>
@@ -32,6 +31,7 @@ Early adopter and practitioner of **Agentic Development** using modern AI IDEs:
 <a href="#"><img alt="Android Development (Java)" src="https://img.shields.io/badge/Android-83B81A?style=for-the-badge&logo=android&logoColor=white"></a>
 
 ### 🗄️ Databases
+
 <a href="#"><img alt="Microsoft SQL Server" src="https://img.shields.io/static/v1?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAACXBIWXMAAAHYAAAB2AH6XKZyAAAAGXRFWHRTb2Z0d2FyZQB3d3cuaW5rc2NhcGUub3Jnm+48GgAAAQBJREFUOMu10tFrQWEYx/FzN2nZrV1ZUiKZmpKZWrQVEsmNi+WClVhWLiYmJaLUbiwUd2tX/gN3+8+O71vPpZz3rLz1qVPnPL/zPO/7GsaRZZrmBe5wadhdFJXwKQGx/wRMsUIfQ7jsBjgww5N08oodXhDVDclhiS06yKhO0MAYAauAG3zIxz/4wy0icOPhZDe8TGIjo4wQlP1Qe1NGAr5TARMpXOAdXaTh1Jn/GWv0MJB287qb94i5FKfwhSxqOsVqzivs8YamzK06aFkVh1FRreIX9yionRZ1q4CIXJQ4QnIHviVYjXKtM4I6uja8KMIvZ1+1e5U98teQPHuMc64Dx5FjxV52uhwAAAAASUVORK5CYII=&label=&message=Microsoft%20SQL%20Server&color=CC2927"></a>
 <a href="#"><img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-116149?style=for-the-badge&logo=MongoDB&logoColor=white"></a>
 <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"></a>
@@ -40,6 +40,7 @@ Early adopter and practitioner of **Agentic Development** using modern AI IDEs:
 <a href="#"><img alt="SQL" src="https://img.shields.io/badge/SQL-orange?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAA40lEQVQ4y63TrQ6CUBwFcBgbGw0JVG0m34FmIWoykQzMNzD5DjRfAJKJ5CYQJJuMForMQCPicTtuiHz5EX4b/D33sOvuFYqiEBroMCa9KVd+kWABPmSQwpmunPnMSNUCGQ4Qwgy0mq9p/C1kVi4XmHAEsWVLTyKzZrlgDjmsQGlZrDCTc81LQQw77nUPDmzI4SxjJq4r8PiswhRsWJPNmcqM11bQR23BBUY9Fg+ZfStI4AYuLMGACRmcucwkTVsYgAVbCOBEAWcWM///Dx6HIvrgIEXVg/TzUe66TGnXZfr6Ot8BXto/aD9KoQ4AAAAASUVORK5CYII=&logoColor=white"></a>
 
 ### ☁️ DevOps & Cloud
+
 <a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-0997e5?style=for-the-badge&logo=docker&logoColor=white"></a>
 <a href="#"><img alt="Podman" src="https://img.shields.io/badge/Podman-892ca0?style=for-the-badge&logo=podman&logoColor=white"></a>
 <a href="#"><img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-white?style=for-the-badge&logo=Kubernetes&logoColor=306adf"></a>
@@ -53,6 +54,7 @@ Early adopter and practitioner of **Agentic Development** using modern AI IDEs:
 <a href="#"><img alt="Apache Maven" src="https://img.shields.io/badge/Apache%20Maven-C71A36?logo=apachemaven&logoColor=fff&style=for-the-badge"></a>
 
 ### 🌐 Web & APIs
+
 <a href="#"><img alt="REST" src="https://img.shields.io/badge/REST-8800FF?style=for-the-badge&logo=rest&logoColor=white"></a>
 <a href="#"><img alt="SOAP" src="https://img.shields.io/badge/SOAP-yellow?style=for-the-badge&logo=SoapUI&logoColor=black"></a>
 <a href="#"><img alt="API" src="https://img.shields.io/static/v1?label=&message=API&color=purple&logoColor=white&labelColor=&style=for-the-badge"></a>
@@ -64,6 +66,7 @@ Early adopter and practitioner of **Agentic Development** using modern AI IDEs:
 <a href="#"><img alt="Javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"></a>
 
 ### 🏗️ Architecture & Design
+
 <a href="#"><img alt="Hexagonal architecture" src="https://img.shields.io/static/v1?label=&message=Hexagonal%20Architecture&color=darkcyan&logoColor=white&labelColor=&style=for-the-badge"></a>
 <a href="#"><img alt="DDD" src="https://img.shields.io/static/v1?label=&message=DDD&color=red&logoColor=white&labelColor=&style=for-the-badge"></a>
 <a href="#"><img alt="MVC" src="https://img.shields.io/static/v1?label=&message=MVC&color=darkblue&logoColor=white&labelColor=&style=for-the-badge"></a>
@@ -75,6 +78,7 @@ Early adopter and practitioner of **Agentic Development** using modern AI IDEs:
 <a href="#"><img alt="Javadoc" src="https://img.shields.io/static/v1?label=&message=Javadoc&color=427B9C&labelColor=427B9C&style=for-the-badge"></a>
 
 ### 📐 Methodologies & Standards
+
 <a href="#"><img alt="Scrum" src="https://img.shields.io/badge/Scrum-009FDA?logo=scrumalliance&logoColor=fff&style=for-the-badge"></a>
 <a href="#"><img alt="Kanban" src="https://img.shields.io/static/v1?label=&message=Kanban&color=FFFFD4&labelColor=FFFFD4&style=for-the-badge"></a>
 <a href="#"><img alt="Waterfall" src="https://img.shields.io/static/v1?label=&message=Waterfall&color=brown&logoColor=white&labelColor=&style=for-the-badge"></a>
@@ -82,6 +86,7 @@ Early adopter and practitioner of **Agentic Development** using modern AI IDEs:
 <a href="#"><img alt="TDD" src="https://img.shields.io/static/v1?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAAZdEVYdFNvZnR3YXJlAFBhaW50Lk5FVCA1LjEuMTITAUd0AAAAuGVYSWZJSSoACAAAAAUAGgEFAAEAAABKAAAAGwEFAAEAAABSAAAAKAEDAAEAAAADAAAAMQECABEAAABaAAAAaYcEAAEAAABsAAAAAAAAAKOTAADoAwAAo5MAAOgDAABQYWludC5ORVQgNS4xLjEyAAADAACQBwAEAAAAMDIzMAGgAwABAAAAAQAAAAWgBAABAAAAlgAAAAAAAAACAAEAAgAEAAAAUjk4AAIABwAEAAAAMDEwMAAAAAAHd36etszaFAAAAMBJREFUOE+tUbENwzAMoz1l71D0hhzQPwwU/iFD1oyZu3roD0EA/9ED8os3dakMRRGSoi03ESQt0cCPcJoAgCUE0lybs6ndkJZZos3ZLSEQB64C2Gy9poNZ47XAMmOHl6R8wYmZNXoGeIOYCsVUmJMCGVTnbh6omwcCAB9T2S3tCH7qG/O2T1FL/BZHAWQUvS2RIYrEW6gLdVwewwOA7MEqlU3aDL2OZT5dxiuAp+Qet3v1rU6Y+sYZv3KWgzT/BS9kbEXKO6DlZgAAAABJRU5ErkJggg==&label=&message=TDD&color=F9DAAF"></a>
 
 ### 🤖 AI & Agentic Development
+
 <a href="#"><img alt="Agents.md" src="https://img.shields.io/badge/Agents.md-EC1C24?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAeUExURfT09PPz8/Ly8vHx8fDw8O7u7u3t7evr6+rq6gAAAIk08UAAAAAKdFJOU////////////wCyzCzPAAAACXBIWXMAAA7CAAAOwgEVKEqAAAAAGXRFWHRTb2Z0d2FyZQBQYWludC5ORVQgNS4xLjEyEwFHdAAAALhlWElmSUkqAAgAAAAFABoBBQABAAAASgAAABsBBQABAAAAUgAAACgBAwABAAAAAgAAADEBAgARAAAAWgAAAGmHBAABAAAAbAAAAAAAAADydgEA6AMAAPJ2AQDoAwAAUGFpbnQuTkVUIDUuMS4xMgAAAwAAkAcABAAAADAyMzABoAMAAQAAAAEAAAAFoAQAAQAAAJYAAAAAAAAAAgABAAIABAAAAFI5OAACAAcABAAAADAxMDAAAAAAg38vHHLQ098AAABMSURBVChTdY9RDsBABESNRTv3v3BTWSJN94UY7wvhBzkJ6bAnMAUUUIWWWE0Js2VJCuMbdhuFTndWO4XBaBh/grxGpbibOmzs5+eaB+oUB4m1hEMaAAAAAElFTkSuQmCC"></a>
 <a href="#"><img alt="Skills.md" src="https://img.shields.io/badge/Skills.md-FE5F50?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAeUExURfT09PPz8/Ly8vHx8fDw8O7u7u3t7evr6+rq6gAAAIk08UAAAAAKdFJOU////////////wCyzCzPAAAACXBIWXMAAA7CAAAOwgEVKEqAAAAAGXRFWHRTb2Z0d2FyZQBQYWludC5ORVQgNS4xLjEyEwFHdAAAALhlWElmSUkqAAgAAAAFABoBBQABAAAASgAAABsBBQABAAAAUgAAACgBAwABAAAAAgAAADEBAgARAAAAWgAAAGmHBAABAAAAbAAAAAAAAADydgEA6AMAAPJ2AQDoAwAAUGFpbnQuTkVUIDUuMS4xMgAAAwAAkAcABAAAADAyMzABoAMAAQAAAAEAAAAFoAQAAQAAAJYAAAAAAAAAAgABAAIABAAAAFI5OAACAAcABAAAADAxMDAAAAAAg38vHHLQ098AAABMSURBVChTdY9RDsBABESNRTv3v3BTWSJN94UY7wvhBzkJ6bAnMAUUUIWWWE0Js2VJCuMbdhuFTndWO4XBaBh/grxGpbibOmzs5+eaB+oUB4m1hEMaAAAAAElFTkSuQmCC"></a>
 <a href="#"><img alt="Kiro" src="https://img.shields.io/badge/Kiro-19161d?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAAZdEVYdFNvZnR3YXJlAFBhaW50Lk5FVCA1LjEuMTITAUd0AAAAuGVYSWZJSSoACAAAAAUAGgEFAAEAAABKAAAAGwEFAAEAAABSAAAAKAEDAAEAAAACAAAAMQECABEAAABaAAAAaYcEAAEAAABsAAAAAAAAAGAAAAABAAAAYAAAAAEAAABQYWludC5ORVQgNS4xLjEyAAADAACQBwAEAAAAMDIzMAGgAwABAAAAAQAAAAWgBAABAAAAlgAAAAAAAAACAAEAAgAEAAAAUjk4AAIABwAEAAAAMDEwMAAAAADZp5qVybcLXwAAAdlJREFUOE99k01PU0EUhp+ZVm4LChRCY7nUCN01al00xhh+QP0D7tWwd226NHfZ696w8i+4IS7EhZo0gbjQhR8FP0Ca0A9Ea8HaGRfT9s6A8d3MnJP3nDnnPWdEpaQTwApwD7gISP4PBWwDoYRVCdwFHgBLTrAGrUD1zWlBAjkgULAiKiX9ceAYQWvwJmBuEZJT8GMfGp/hzzEIYTPZFpWS7tsvaw2zF2D5DmSvQNyD3x348AJePoZOy0mi5MmyvXFYvg256zA2DjIGiUm4fBOu3YJYfMQGkI5gSsNcDrJXjd3tdqlWq+zt1dnc3GDphmJ63tXEVVzDzAKMJY3ZaDQIgoD19WeE4UNk4oiUb9ocwilICJiYjex0Ok25XMb3ffL5PGfPJTkzSD6EU4GMQ8qPbM/zKBaLZDIZCoUCIFB9O8JWX8FMFvxLLsFGrwudpjtKZ3xT543K/V5EsHHwDVo7wL8SyBh8eQ1PAvhejwg23j2HXwenKxgNpXcE+1vws2lWuL0DzcEGvn0Kb9aiwAGUqJT0FrBoe6fnIbUAra/mtck01N/DcefUKtckEAKHtre9C7VXpuf2LnzaMOt8IvgQCKWAR8B9oDZsRwijiRDR3RJu+J3LGlb/AmLJl3+lUNTKAAAAAElFTkSuQmCC"></a>
@@ -91,6 +96,7 @@ Early adopter and practitioner of **Agentic Development** using modern AI IDEs:
 <a href="#"><img alt="SDD" src="https://img.shields.io/badge/SDD-D4AEAA?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAAZdEVYdFNvZnR3YXJlAFBhaW50Lk5FVCA1LjEuMTITAUd0AAAAuGVYSWZJSSoACAAAAAUAGgEFAAEAAABKAAAAGwEFAAEAAABSAAAAKAEDAAEAAAADAAAAMQECABEAAABaAAAAaYcEAAEAAABsAAAAAAAAAKOTAADoAwAAo5MAAOgDAABQYWludC5ORVQgNS4xLjEyAAADAACQBwAEAAAAMDIzMAGgAwABAAAAAQAAAAWgBAABAAAAlgAAAAAAAAACAAEAAgAEAAAAUjk4AAIABwAEAAAAMDEwMAAAAAAHd36etszaFAAAAVpJREFUOE/l0r1rVEEUBfDfey9mxcQnoqBoChuFgFXAxkaIZR4IowGxsha1EKwsVhD8ByyCWFnYGF1BYifYK4KlGsXCoGAaEz9g1zVj4czySCF2Fh4YmDn3nMPcO8N/gG6dFkcu9EZ0aCIo24c/YIo64mCbDE38HdAi5kMTN0aB3TqXLkIRq4kwF2No4nwulFkcmtjFXUxvMu/BZdavD8Y+v1BYTLpabgHncRXnhuPfXz2amclmuAkmXdn/cQ4u4SXWsLvEPtzAysZYf+Hh7ETVL97mocziBIKvNRRY6S0V03iH1RIfcApT1aDT9cXOZL6Fa2n/wI51nW+7Ig6HJq7iALYVrRc4iXvVD2cWjxVv9OuniT+E5fB8DSbxGnsxjmHZWypywH2c/bnFnaPvHz9L14flLMD2ZN6KoTzEVshtdE4vHIcnqec2PqHCQPKNBJs/UyuUv6j/O/wCi/1ns4tbLZoAAAAASUVORK5CYII=&style=for-the-badge"></a>
 
 ### 🧪 QA & Code Quality
+
 <a href="#"><img alt="JUnit" src="https://img.shields.io/badge/JUnit-249c5f?style=for-the-badge&logo=JUnit5&logoColor=white"></a>
 <a href="#"><img alt="Jacoco" src="https://img.shields.io/badge/Jacoco-EFE6C9?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABIAAAASCAYAAABWzo5XAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAEnMAABJzAYwiuQcAAAGFSURBVDhPY9zUZfCfgQjgV3aBEcrEDtZ3GP7/+esPXnxlU+Z/QhYyQWmKAdPf/wgXL9x0nmHWmlMMk5ceg4pAABu3MIOyhiUDyFW4XMbyB2jQP6hUrK8hmGZCCw2QQSCgpGEBple2Mv8Prz6Loorlz1+gQVCTlm69wPDz12+Gnz//MPz6/Qcslh9nyyBqkMMA0gVzysVLllAWEpjfZPr/87ffcPwJRH/FgaFqFgD1QLXDAdUCm3FOven/kBJI4OZlJ4NpUsGiRYsYWX7/Y2L48x/h0m0li6AsVKCT58BQdeAAlIcAbQ4OYJrp9z9Ghr9//4MxDPx7gYlB4BMaRgZMf/4ADQK6CIRBAKTp/xdGDAwC79EwsmHUS9m//jMBvcUAxmABCWAM8PzHwCAgiIb5gBgGWP6CEySUBwSgQMUFpkADFhtgbCy0+R9XvhvMAdoNhCDbkdMxBCDzlnS6MtT1H0HJIoz1Bbb/QfkNzIFKwYwCATgbySRmxv8MjRMOoxhEJcDAAABehu+mM2AXOwAAAABJRU5ErkJggg==&logoColor=white"></a>
 <a href="#"><img alt="Sonarlint" src="https://img.shields.io/badge/Sonarlint-white?style=for-the-badge&logo=sonar&logoColor=CB2029"></a>
@@ -100,12 +106,14 @@ Early adopter and practitioner of **Agentic Development** using modern AI IDEs:
 <a href="#"><img alt="PMD" src="https://img.shields.io/badge/PMD-white?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAFaSURBVDhP7ZNPSwJRFMWPQ5ZMoZWDBkVRUgsRQogW0aZFu1atatUHaN/naNcHsE3LoKhWSgYuWikz/cEw0WHGSZmxMpUZ5718L6HtUJsW/Tbvce85j3vgPh/tg18gDM4f80ceUFUVnU6HF7zAtJqm8bugaTqy2RsQQnjBC65LkE5noOs6fKVSiTYaDdQjDkznHcnJRRBKcG0UsB/fRtGqQG4+o0dcFN7KiI/NYGtuHQ95BZIkQZBlBaIoQm3XkQjN47B4Crtn48ySUWxWcKXfotrvldsGDhI7SIaXcFHNcY+sKBD8fj/YKnSJjZNqBquhGKJiGHvRNRw9nWN5fGEw+BeBoRHYxOEewSd8R9CkNjamVxAcHoXZfcW9VUYkMIHZ4BQuKzkewaUuLOcDu7FNPObveAQYxgtNpY5pq9ViS+kJpmWeWs2gbBRqmia1bZs3vcC0zMP4/wvAJzgIDcvQOnZVAAAAAElFTkSuQmCC"></a>
 
 ### 🔧 Version Control
+
 <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white"></a>
 <a href="#"><img alt="Git Flow" src="https://img.shields.io/static/v1?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAhZJREFUOMtjaGhoYKAEYxWsr29gaGyoY+hsKmNob6wA80GYaAMaGuoZWhqqGMLLlnulVs3Ua4MagteA+vp6hsbGBoaW5kaG7qZSBrvC/ZVCaW8u8aR9uptUOce8vbqEoaG8mqEBqA7DALCTgZpr6+rZsgurXDsbihiUcu6uNss/3ime+eykT/764M5JtdK1CyY5NNTUohiC7GzWgJjCbW6h+adDY3PWlNZ28TGl/P0im3J3XcukZpHqZ9uvVr7cdbl654LqhrIquCFgohGIq2vq+JyD896m5VREuIXkPWmrK2YQznp7xip9f3b36nazqgfbz9btWVRaeWfz0YbSSlQDGoBeaGlqYEjNKU8wcc/8n5JVmj2ho4aBP+PjJePUE1X95XkMxdfWHsv5tPt/3aQujYbKaswwANGtwAD0iyo87BiQ/SYiPm89T+Tdp3bTd58puTBnb8a77f+L1k+rbCyswB0LTZCAZI9LK2ly980/btS+8H/840X/Mo8v2Fq+fHJCU00dQ0NdPe50AIvKthYgrqhjCDkw4Vnaur6+9twKhkZQFAI11xOTkJqr6xjyJzTZuh/tfxu6Z+KZmpZGkcbaOuJTYmtlHYPHuuZjUfOb6oJ29Z1MX9iR01JRS7wBLdX1DGkT6vystzQ+8NrSfq6yvVEG7H+iMxPIGzX1DJUt9cK1DfUsTbWYfidoANglQENgmnEZAAAdTqiG29w2fQAAAABJRU5ErkJggg==&label=&message=Git%20Flow&color=7A2A1A"></a>
 <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-323330?style=for-the-badge&logo=GitHub&logoColor=white"></a>
 <a href="#"><img alt="GitLab" src="https://img.shields.io/badge/GitLab-white?style=for-the-badge&logo=gitlab"></a>
 
 ### 🛠️ IDEs & Dev Tools
+
 <a href="#"><img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJ%20IDEA-0687f3?style=for-the-badge&logo=intellij-idea&logoColor=black"></a>
 <a href="#"><img alt="Android Studio" src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white"></a>
 <a href="#"><img alt="Eclipse" src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white"></a>
@@ -129,6 +137,7 @@ Early adopter and practitioner of **Agentic Development** using modern AI IDEs:
 <a href="#"><img alt="Putty" src="https://img.shields.io/badge/Putty-D6D5EF?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABcAAAAWCAYAAAArdgcFAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAEnMAABJzAYwiuQcAAANiSURBVEhLnZVtSJNRFMf/j82tzb3am25pZWREWZFuKuxDZIm9aAqZBr0SEYvqWxF9CD8UrCAJpOxTWJiZTisCiV6RMikDs7aQyNqS2VQs9r5Vejs+e8RMc60f3F3Ouff+d+69556HQwx8sjuYxdIAxn4Knsl4vT4oFGocP3aMi0m87noty8hYDi5u6mV2uwNdXVYoVQocOXw0NnGz+QIzm50YYXGCZxydTon9++Xwed2YNVvNi0+eFZWD8HrMQjsNj3s39WfA4ZAwPs5/iI/CIBIFkZ+/FkbjFd6eiv8S1+lu4+TJlfj2bT3a2k6TRxQZ+IOYxEPhMP1WoqmpDHbHVihUu7Fug4uaHfocF8TxtAfG4HD0ovXpM/ZPF9r5uos1NtRBIqnHtm2fceOGAelLTJBJpcIMYGR4GFarDYHwdxQU5KOmpobuIQqvu96wa1drUFJyBXK5mzImD2lp2ZRucuizMoVZESRiMTJWrkbDzXrcf/AQMwT/X8nJ1VYYjRexbJkb8bRto/Ej/ckLilKC3JzNdAQO9Dmd+Do0hDjKf5vNhvcfPkAmS5gYea/Tyb58cQlWhCbLJXDMhY5X3aiq6sHgIFBRYcCK5dkQS8To7++Hx+Ph52o0GiiVSqjVGuzas2dc3Gp7x1pa7iIxUSN4xuDwqqOVjqUWfX0qBIKnoDesFcYmMyqo1Wqh0yZHXmjPJztrb3tGW186ak7grfUeFqSexeXLKRSVAVtLyrFl08aodzUKn4rBQIDOMw4Gwx1kZnYLzUa3fg7hkBnnKw+gsPAElIo50TPgNybkuVq9Dhy3k1oZ9HovSkutlB0WDA0dF2bExl8e0TA6OlJRXd1Jla5A8MXOBPFAcKxGzKToi6iX8NbwCN/FDH+ETbduse8hP4msohKUzg/8jkoVwqCrkS7XhoGBAcr9XBQXFyM1Zf60V8A9evyEvXzZjp8/GBLEVIDY5DA5qszvPzuQopuP8h1leEivb/WaLBiyMqcXb25uZnl5efQQvGROXTp5KGuDQR8slmaEgmFsKSqKLt7YWM/mzU2Gz++jiiY4hSXP29toIxGnKF4EbbIWvb19kMqk2F5WjiWL06YX37dvL5NKZfD7/WSORR5Z43a7+SOJwOjDq8S8pCSYTCakLVo4rTAA/AJTxjXo/G+L+wAAAABJRU5ErkJggg==&logoColor=white"></a>
 
 ### 🖥️ Systems & Networking
+
 <a href="#"><img alt="Windows" src="https://img.shields.io/static/v1?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAaElEQVQ4jWP8FKD0nYGBgYUBO1jUm3XvBwMDQxoOeQYWJIwNMEExLnkGJlwSxIJRAyChuwiPQUcZGBh+MTAwcOA0gC/k7A88Bvz6/1/wDwMDww98LkhjwB3PHFDNGbgMGPhAHDWAgQEAW8QRz5JUQ4IAAAAASUVORK5CYII=&label=&message=Windows&color=393939&style=for-the-badge"></a>
 <a href="#"><img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-e25c2d?logo=ubuntu&logoColor=fff&style=for-the-badge"></a>
 <a href="#"><img alt="Kubuntu" src="https://img.shields.io/badge/Kubuntu-0079C1?logo=kubuntu&logoColor=fff&style=for-the-badge"></a>
@@ -140,19 +149,17 @@ Early adopter and practitioner of **Agentic Development** using modern AI IDEs:
 <a href="#"><img alt="Warp Terminal" src="https://img.shields.io/badge/Warp%20Terminal-01A4FF?logo=warp&logoColor=fff&style=for-the-badge"></a>
 
 ### 📄 Markup & G11n
+
 <a href="#"><img alt="YAML" src="https://img.shields.io/badge/YAML-white?style=for-the-badge&logo=yaml&logoColor=CB171E"></a>
 <a href="#"><img alt="XML" src="https://img.shields.io/badge/XML-005FAD?logo=xml&logoColor=fff&style=for-the-badge"></a>
 <a href="#"><img alt="TOML" src="https://img.shields.io/badge/TOML-9C4121?logo=toml&logoColor=fff&style=for-the-badge"></a>
 <a href="#"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-white?style=for-the-badge&logo=Markdown&logoColor=black"></a>
 <a href="#"><img alt="I18n/L10n" src="https://img.shields.io/badge/I18n%2FL10n-99CCCC?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAADVUExURQAAABMTExUVFRgYGAcHBxsbGyAgIAcHBxoaGiAgIA8PDxAQEBQUFAYGBiEhISAgIAYGBgsLCx4eHhMTEwMDAxAQEBMTExoaGiAgICAgIBYWFgsLCwcHBwQEBBQUFB4eHgsLCxoaGhAQEBcXFx0dHRkZGRUVFRYWFh4eHhQUFBgYGBsbGw0NDQUFBSAgICAgICAgIAkJCQcHBx0dHQcHBxgYGAwMDA4ODg8PDxkZGR0dHRoaGiAgIAoKCh0dHR4eHh0dHSAgICEhIRISEh0dHR8fHyEhIWaqIe8AAABGdFJOUwB5hocWreMVn+1XV3kO/uUWLcJVB1Vyp/Dkgy4dBH2/DKs7h7qTWoaYbZWfOw7f+OoOBMMUjS42PZm+oPkYwMaq7/pDrc0cwSlyAAAAs0lEQVQY0zVPRQLDMAxziknbrTBmZmbmzf9/0px008WxZNkRgITtep5rwx8GF+8P4pMbcV/yEa8PvF+O/lbp1CPeXtFpv7HkDNcrDWKi8w6gNaJ9IgFMzhxInAgbHBOgXMDhai39pgtMo5rFelMd0DxgParpTC5frI4VIS0KNZwtpUUuVUgizhe0lM7GxCCJHZ3TI7BSv5F2V30MQktXrmnfCmMp4MLUNFP8w8n4DmNOHP8LYDIRTzc4x74AAAAASUVORK5CYII=&logoColor=white"></a>
 
-
-
 ## 🌐 Languages
 
 - 🇨🇴 Spanish (Native) 
 - 🇺🇸 English (C2 Proficient — EF SET 81/100)
-
 
 ## 📚 Education
 
@@ -184,7 +191,33 @@ Early adopter and practitioner of **Agentic Development** using modern AI IDEs:
 
 ---
 
-### 📲 Side projects (My Android Apps)
+### 💾 Side projects
+
+#### 💻 Desktop Apps (Windows)
+
+- ⚡ **Folder Remix**\
+  📆 2026\
+  ⬇️ [Download](https://github.com/nihcap/nihcap/releases/tag/folder-remix-v1.5.70)
+  - My first Windows 11 desktop app.
+  - Written in .NET 10.0
+  - Folder Remix is a native Windows 11 desktop application designed to customize the icon of any folder. It is inspired by the Linux application *Iconic*, but features foreground icons preloaded offline from the *Friconix* icon library. It also supports custom text labels and custom icon resources.
+  - Folder Remix implements a clean, modern, and highly responsive user interface matching Windows 11 Fluent guidelines.
+  - Folder Selection.
+  - Custom Color Picking.
+  - Real-time canvas preview of how the customized folder will look before applying the changes.
+  - Interactive Icon Selector Panel: A sliding side panel that contains a Search Bar and Filter for icons by Friconix categories: *Regular*, *Solid*, *Thin*, and *Wide*.
+  - Text Label Mode
+  - Dual-Style Back Cover Customization.
+  - Custom Image & Resource Support
+  - Warns the user when applying an icon to a folder that already has a customized `desktop.ini` or icon. 
+  - Easily revert any customized folder back to the default Windows system appearance.
+  - Smart Offline Fallback
+  - Inline Warning Banner
+  - Supports both English and Spanish localization for all UI texts, dialogs, warnings, and tooltips.
+  - Premium Dark Theme Styles & Fluent Scrollbars
+  - Includes a Secret Easter Egg.
+
+#### 📲 Android Apps
 
 - ⚡ **Randomlyst: random numbers**\
   📆 2013-2023\
@@ -195,7 +228,6 @@ Early adopter and practitioner of **Agentic Development** using modern AI IDEs:
   - Target compatibility: Originally developed for Android API Level 14 (Android 4.0.x: Ice Cream Sandwich), now compatible with Android API Level 34 (Android 14)
   - 0 ANRS/crashes since first release.
 
-  
 - ⚡ **Christmas Novena**\
   📆 2013-2015\
   [![card](https://PlayBadges.pavi2410.me/badge/full?id=co.com.nihcap.xmas9)](https://play.google.com/store/apps/details?id=co.com.nihcap.xmas9)
@@ -204,7 +236,6 @@ Early adopter and practitioner of **Agentic Development** using modern AI IDEs:
   - Project developed in Eclipse Juno with ADT plugin.
   - Target compatibility: Originally developed for Android API Level 14 (Android 4.0.x: Ice Cream Sandwich), later updated to be compatible with Android API Level 18 (Android 4.3: Jelly Bean)
   - 0 ANRS/crashes since first release.
- 
 
 ---
 
@@ -252,9 +283,8 @@ Early adopter and practitioner of **Agentic Development** using modern AI IDEs:
   <a href="#"><img alt="Warp Terminal" src="https://img.shields.io/badge/Warp%20Terminal-01A4FF?logo=warp&logoColor=fff"></a>
   <a href="#"><img alt="YAML" src="https://img.shields.io/badge/YAML-white?logo=yaml&logoColor=CB171E"></a>
 
-
   ---
-  
+
 - 💼 **Software Developer** at **Pragma S.A.**\
   🌎 Medellín, Colombia\
   📆 2024 - 2025\
@@ -297,7 +327,7 @@ Early adopter and practitioner of **Agentic Development** using modern AI IDEs:
   <a href="#"><img alt="Spring WebFlux" src="https://img.shields.io/badge/Spring%20WebFlux-80ea6e?logo=react&logoColor=black"></a>
   <a href="#"><img alt="SQL" src="https://img.shields.io/badge/SQL-orange?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAA40lEQVQ4y63TrQ6CUBwFcBgbGw0JVG0m34FmIWoykQzMNzD5DjRfAJKJ5CYQJJuMForMQCPicTtuiHz5EX4b/D33sOvuFYqiEBroMCa9KVd+kWABPmSQwpmunPnMSNUCGQ4Qwgy0mq9p/C1kVi4XmHAEsWVLTyKzZrlgDjmsQGlZrDCTc81LQQw77nUPDmzI4SxjJq4r8PiswhRsWJPNmcqM11bQR23BBUY9Fg+ZfStI4AYuLMGACRmcucwkTVsYgAVbCOBEAWcWM///Dx6HIvrgIEXVg/TzUe66TGnXZfr6Ot8BXto/aD9KoQ4AAAAASUVORK5CYII=&logoColor=white"></a>
   <a href="#"><img alt="YAML" src="https://img.shields.io/badge/YAML-white?logo=yaml&logoColor=CB171E"></a>
- 
+  
   ---
 
 - 👨🏻‍💻 **Independent Android Developer (Kotlin)**\
@@ -307,7 +337,7 @@ Early adopter and practitioner of **Agentic Development** using modern AI IDEs:
   <a href="#"><img alt="Android Studio" src="https://img.shields.io/badge/Android_Studio-3DDC84?logo=android-studio&logoColor=white"></a>
   <a href="#"><img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-b824f2?logo=kotlin&logoColor=white"></a>
   <a href="#"><img alt="Notepad++" src="https://img.shields.io/badge/Notepad++-90E59A.svg?logo=notepad%2B%2B&logoColor=black"></a>
-
+  
   ---
 
 - 💼 **Development Consultant** at **Sofka Technologies**\
@@ -359,13 +389,12 @@ Early adopter and practitioner of **Agentic Development** using modern AI IDEs:
   <a href="#"><img alt="XML" src="https://img.shields.io/badge/XML-005FAD?logo=xml&logoColor=fffe"></a>
   <a href="#"><img alt="YAML" src="https://img.shields.io/badge/YAML-white?logo=yaml&logoColor=CB171E"></a>
 
-
   ---
 
 - 💼 **Senior Software Developer** at **EPAM Systems Colombia S.A.S.**\
   🌎 (Remote) Medellín, Colombia\
   📆 2021
-
+  
   ---
 
 - 💼 **Analyst Developer** at **MVM Ingeniería de Software S.A.S.**\
@@ -394,7 +423,7 @@ Early adopter and practitioner of **Agentic Development** using modern AI IDEs:
   <a href="#"><img alt="Toad" src="https://img.shields.io/badge/Toad_for_Oracle-white?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABUAAAAVCAIAAAAmdTLBAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAEnMAABJzAYwiuQcAAARKSURBVDhPbVNtTBt1HL7X9l56HfRtrbRAhzIEIWXCJE4nmqAwRsbCHDPqB91idEYTF4lZ4kxY1A/OLPptaubilgm6BMZmiMmW8mIlvCzTDdiAltdSYAO5Hu317np3//O6dh9kPvkl9/J7nvv98/yegzVNg/4PqqqOj4+P3RmrqamxWWwwDGca/wWSuT5EMpkUBEG/iSxG2rp/6Yj+1tr5ObvBpruPYrOe4zh/v18fe3G6I54vjfeMTs1MBgYCmfYj2Hz+60P+U4FvaISayl6oJqtst80hck7KUYrJkgMl+0pLizO8h9isP93+7fn77YRGkLkUoRmNqDEmxmVUfnya2527ReVfPnzkWIb6AJvPn1jjDZQBoRH1H0VEkpwWk0X5MASOvuhwWWC35zK7yvb19l3rvZbmp+YDFYwFR7/uOl2RBYe0O3+uwAlBYTCkkES8JFKeT5M0ztC4gGrf966NrEed5TYFoAeZxo8bPoQBADfGht/96WhukeuJ5Hqjz2pmcILEcCyzMKBBqgx6hrlLU0lW4uuKaIzC/ZjBHgZvln2AcHHuh8FzdIkNYxTSYAhM8hSF6TJZ0dIFAKQALcCJgKYavIa3djtefcoMBGWr3Xoi8CWyIcYW8fsqAt5w4furrDAMzvojqqphGJwuUVS6riyOSZBJWDtU7QIQRNF4EYFMYKwFQCkOZaDKZK7MTcEIHJM0KCKMDCzJEMbHZFkGFAHX1z7mnd1wWhkUR/QgygooZtBb9xJ2AUMYo8lJOwJxRJL1T0OmqLi31h2Nafle2wvVOdUvuQtLXOcvzqEK5LBRIq/MBFk9yh4zSlAEX2VCTLTJjjiBE+4PxuIbkqoCxozX1buDk9HOq/zlq4mJu7Hmg7k7dlhxHDaQWDyRygtAIElVVE1N7W8+PH9y8Kvp2EhdAq2udCQSIC+P0ocgMKSHS6frduiP4cWEJ4caHWV9PkvbnNi9LskRMZWfPE/eiWdaGr1vJxIMRaAUjQGg6Rrd/NQINR1QeGVZQBHdIqhvVe6PytKycLz8WCZ/Ai8kR+OSohoMiCwpGIakK93VofvMUJDu0BVWvbQib7Bq687jDc/uTa36XOeFI/6PUIAfctkx3Loe3ZmUXbHYkAKFSJxL6yXV9dcNsP1JbfZuLIyu/dp03lfh09/Dy/eW93/WBDmwhrI9JZhze3FfaFJzO5u3FT7NMDZJkHSSIisLK+MSf+ZWMHJmSjJ6SGuY/LmljSAJ9JUDtTP48qfPt7xe81pRke/vSWR+5vpEsGM2FNqSVWCx28OR2+z6UGS1mzZKP/4OV5Y9F1qZ5jmpqWIfRVNwz3Cvx+0pcG17cExIUZSBgS6LLXspPMELWYo8MbfwR5ZZdW212OzNnwx+11p58p329081flFfvQfTXdEFKIqmxWmIomg0GvXthsNhjg0SFGoksvWfKSs73/tewdLZpZvTN3eV7kpRIehfaLsWLGP62QYAAAAASUVORK5CYII=&logoColor=white"></a>
   <a href="#"><img alt="VirtualBox" src="https://img.shields.io/badge/virtualbox-183A61?logo=virtualbox&logoColor=white"></a>
   <a href="#"><img alt="XML" src="https://img.shields.io/badge/XML-005FAD?logo=xml&logoColor=fffe"></a>
-
+  
   ---
 
 - 💼 **Java Developer** at **ADA S.A.**\
@@ -407,7 +436,7 @@ Early adopter and practitioner of **Agentic Development** using modern AI IDEs:
   <a href="#"><img alt="Notepad++" src="https://img.shields.io/badge/Notepad++-90E59A.svg?logo=notepad%2B%2B&logoColor=black"></a>
   <a href="#"><img alt="Oracle" src="https://img.shields.io/badge/Oracle-F80000?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAGUExURf///wAAAFXC034AAAACdFJOU/8A5bcwSgAAAAlwSFlzAAAOwwAADsMBx2+oZAAAABl0RVh0U29mdHdhcmUAUGFpbnQuTkVUIDUuMS4xMhMBR3QAAAC4ZVhJZklJKgAIAAAABQAaAQUAAQAAAEoAAAAbAQUAAQAAAFIAAAAoAQMAAQAAAAMAAAAxAQIAEQAAAFoAAABphwQAAQAAAGwAAAAAAAAAo5MAAOgDAACjkwAA6AMAAFBhaW50Lk5FVCA1LjEuMTIAAAMAAJAHAAQAAAAwMjMwAaADAAEAAAABAAAABaAEAAEAAACWAAAAAAAAAAIAAQACAAQAAABSOTgAAgAHAAQAAAAwMTAwAAAAAAd3fp62zNoUAAAALklEQVQoU2NgRAMMRAkwwAFYAMEFC4EEkNSD5VFMgGokTQDDUExrMRyGBggLAABi0AC5VFQnFgAAAABJRU5ErkJggg==&logoColor=white"></a>
   <a href="#"><img alt="Toad Data Modeler" src="https://img.shields.io/badge/Toad_Data_Modeler-white?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABUAAAAVCAIAAAAmdTLBAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAEnMAABJzAYwiuQcAAARKSURBVDhPbVNtTBt1HL7X9l56HfRtrbRAhzIEIWXCJE4nmqAwRsbCHDPqB91idEYTF4lZ4kxY1A/OLPptaubilgm6BMZmiMmW8mIlvCzTDdiAltdSYAO5Hu317np3//O6dh9kPvkl9/J7nvv98/yegzVNg/4PqqqOj4+P3RmrqamxWWwwDGca/wWSuT5EMpkUBEG/iSxG2rp/6Yj+1tr5ObvBpruPYrOe4zh/v18fe3G6I54vjfeMTs1MBgYCmfYj2Hz+60P+U4FvaISayl6oJqtst80hck7KUYrJkgMl+0pLizO8h9isP93+7fn77YRGkLkUoRmNqDEmxmVUfnya2527ReVfPnzkWIb6AJvPn1jjDZQBoRH1H0VEkpwWk0X5MASOvuhwWWC35zK7yvb19l3rvZbmp+YDFYwFR7/uOl2RBYe0O3+uwAlBYTCkkES8JFKeT5M0ztC4gGrf966NrEed5TYFoAeZxo8bPoQBADfGht/96WhukeuJ5Hqjz2pmcILEcCyzMKBBqgx6hrlLU0lW4uuKaIzC/ZjBHgZvln2AcHHuh8FzdIkNYxTSYAhM8hSF6TJZ0dIFAKQALcCJgKYavIa3djtefcoMBGWr3Xoi8CWyIcYW8fsqAt5w4furrDAMzvojqqphGJwuUVS6riyOSZBJWDtU7QIQRNF4EYFMYKwFQCkOZaDKZK7MTcEIHJM0KCKMDCzJEMbHZFkGFAHX1z7mnd1wWhkUR/QgygooZtBb9xJ2AUMYo8lJOwJxRJL1T0OmqLi31h2Nafle2wvVOdUvuQtLXOcvzqEK5LBRIq/MBFk9yh4zSlAEX2VCTLTJjjiBE+4PxuIbkqoCxozX1buDk9HOq/zlq4mJu7Hmg7k7dlhxHDaQWDyRygtAIElVVE1N7W8+PH9y8Kvp2EhdAq2udCQSIC+P0ocgMKSHS6frduiP4cWEJ4caHWV9PkvbnNi9LskRMZWfPE/eiWdaGr1vJxIMRaAUjQGg6Rrd/NQINR1QeGVZQBHdIqhvVe6PytKycLz8WCZ/Ai8kR+OSohoMiCwpGIakK93VofvMUJDu0BVWvbQib7Bq687jDc/uTa36XOeFI/6PUIAfctkx3Loe3ZmUXbHYkAKFSJxL6yXV9dcNsP1JbfZuLIyu/dp03lfh09/Dy/eW93/WBDmwhrI9JZhze3FfaFJzO5u3FT7NMDZJkHSSIisLK+MSf+ZWMHJmSjJ6SGuY/LmljSAJ9JUDtTP48qfPt7xe81pRke/vSWR+5vpEsGM2FNqSVWCx28OR2+z6UGS1mzZKP/4OV5Y9F1qZ5jmpqWIfRVNwz3Cvx+0pcG17cExIUZSBgS6LLXspPMELWYo8MbfwR5ZZdW212OzNnwx+11p58p329081flFfvQfTXdEFKIqmxWmIomg0GvXthsNhjg0SFGoksvWfKSs73/tewdLZpZvTN3eV7kpRIehfaLsWLGP62QYAAAAASUVORK5CYII=&logoColor=white"></a>
-
+  
   ---
 
 - 👨🏻‍💻 **Independent Android Developer (Java)**\
@@ -417,7 +446,7 @@ Early adopter and practitioner of **Agentic Development** using modern AI IDEs:
   <a href="#"><img alt="Eclipse" src="https://img.shields.io/badge/Eclipse-2C2255?logo=eclipse&logoColor=white"></a>
   <a href="#"><img alt="Java" src="https://img.shields.io/badge/Java-E98729?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAACXBIWXMAAAsTAAALEwEAmpwYAAABhUlEQVRIx93VSyhEURzH8UE0w0TYKI9QojyaspANDUoeZcXOa2FhR5SFlJJiQaws2CALi0lJEspCFrJBKRYSKQuy0FCkxvfkp25KzTV3Sm59mjndc//n3PM//3Ndrr94hUKhimgGj8datIKnYgNz0QhehWvsIxGtmIffieAdeMcevJjECTKcmv09zuBR+xHtTi7PplkOS9vkIeDkAGk4QqbaubhzOsnJaNP/QnRFGrBXSTU7pQgxP/SLQzF2MW1ngEUl8xXnOMSObGMF40hRfx+Cdt+iCctaknwx+chB+be+Q6ZG7A4wgme5lIfQ53WLWvXz4wB5v8lFmfJQJzVoRL0lB6WRJHtBM37CDV7UDqLlNwGTNFOf5fRsxgAGTQXrXPJYnkmwM4A5Ei5QaYKHeXyv2xlgVcswgwYUwG2570a2cjGMU4zqnjfcQczDU9rvV6qHN+0ms3uOsYS+r53DbzUm7LxJbBh9stCDLU3IVi7MR6VExdaNfoxhVsUXULV3It31b68PMH8swPmMzp0AAAAASUVORK5CYII=&logoColor=white"></a>
   <a href="#"><img alt="Notepad++" src="https://img.shields.io/badge/Notepad++-90E59A.svg?logo=notepad%2B%2B&logoColor=black"></a>
-
+  
   ---
 
 - 💼 **Project Engineer** at **Pragma S.A.**\
@@ -454,7 +483,7 @@ Early adopter and practitioner of **Agentic Development** using modern AI IDEs:
   <a href="#"><img alt="SSH" src="https://img.shields.io/static/v1?logo=windowsterminal&label=&message=SSH&color=E1E1E1&logoColor=black"></a>
   <a href="#"><img alt="WinSCP" src="https://img.shields.io/badge/WinSCP-E2FBFF?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABcAAAAWCAYAAAArdgcFAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAEnMAABJzAYwiuQcAAAPeSURBVEhLpVVtbFNVGH7Obe+97Vr5GDUbbM1mA4SWsUkiMhEQNUR/aoKBgEaNHwhIYoKJUaMhoAZ+6U+NgEpEQ/SHTBejkcQElRDIYCwyNjJEN9N269fa3tv7fTzn7lJEelX0Sc9977m97/M+57zPaUnLyydoa6wJHNS9UP5xJzXThqGaOPzoIqxLthD+9c2ApPafps/sWI606cBiZO4wbKgVHSMn09je3YzH7orfNDGHS77huR6MqhYMw4KlW6gxtb/+mMY7q1vQ2xmBUq1C03VQxwERBIRkGfG2Bf9YkCT3naYPP70MFxUDpm7DZAV0Rp4fymFji4TblCHcEo0iwEhN03STeCHbdrB50yN/W0DgF9vbCk7MI0+MJGbh62MfI7VkCe5btxY9PcvQ1bUUixctRFcqyQoZ2PPmPrdNfghS1j2+z5VCDVrFgBgJsiI2yNgF7HpoNdra5uPwp58xAQYkSYSuGbAdC92s0OjoJY+mMVzl1YKG4a+uQB+cQnWq5qoXxsdwz6qVGDh7DgfOVzHQ1Itnn3qS7NyxlcTb25EvFNG1NIX3Dnzgq14oVU2Ufs4hs3cVGdi1gjRPVFFJK4gEBNiWjenpMgKReVi7cLaXAsyLxSBLEiybWdXQvac3QuicLeLollS9Md9tX05ieQ1myYRlcQfpePXeNjxxd0f9HUIIBNbgWq3GzoT/tvt2+6XX36BNUsCb+YOT737tlYY8DR9u2/kC3f/WXmY5C44z4x7uDl03YLBo8Ggw67JVpdMZ9PX348hHh27gchv6V/Bkx6GoaRrUmobpchnFYgmFYhG5XB6TU1PIZDO4+PsgxicvQ1EUL/N6NCTnYNzMoqa7rxobPNaHquJS+RS+N97GkHgUlqB6WdfDl5w3kyvnZOqfSPn4RTmLc8IRhG6fhJO8DLJy0Mu6hm2frKH+5J7qq+NqgZHKDxgIfghpcYG5BpDm2phzZwUvfrm+bps9326iOfU3f+UGI1e5Uk7qKeb3WW0MtqhAkK5ZUJ4LlOafx9bP76AbDsVppMNAJDyrMTn3MXdHndhTzdUnjPtx68QaaGMR710BQSIiFBERTOTRviKMcDTk2rChkdc/8OBubrXhC8PIZrPI5/MolUruT6+u6WjSWmFWmFotg2hrAMGABFGQIIdldnJlNIsLMHEl63+I3n3/IFWUxi6YAYUdH8dI6BiiCQuSKLEVsMGKdIR78NPxM/7k/xaPf5GgsaQEKThDLLJVxOVunDh+8v+RP9/XS9uTcyCHQuzPhO05CboxJnai/5u+/06++WCSBmTmlGCIzYhHxKJ7Q1As5/EHh38IFFg5/ZUAAAAASUVORK5CYII=&logoColor=white"></a>
   <a href="#"><img alt="XML" src="https://img.shields.io/badge/XML-005FAD?logo=xml&logoColor=fffe"></a>
-
+  
   ---
 
 - 💼 **Analyst Developer** at **LandSoft S.A.S.**\
@@ -480,7 +509,6 @@ Early adopter and practitioner of **Agentic Development** using modern AI IDEs:
   <a href="#"><img alt="Toad Data Modeler" src="https://img.shields.io/badge/Toad_Data_Modeler-white?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABUAAAAVCAIAAAAmdTLBAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAEnMAABJzAYwiuQcAAARKSURBVDhPbVNtTBt1HL7X9l56HfRtrbRAhzIEIWXCJE4nmqAwRsbCHDPqB91idEYTF4lZ4kxY1A/OLPptaubilgm6BMZmiMmW8mIlvCzTDdiAltdSYAO5Hu317np3//O6dh9kPvkl9/J7nvv98/yegzVNg/4PqqqOj4+P3RmrqamxWWwwDGca/wWSuT5EMpkUBEG/iSxG2rp/6Yj+1tr5ObvBpruPYrOe4zh/v18fe3G6I54vjfeMTs1MBgYCmfYj2Hz+60P+U4FvaISayl6oJqtst80hck7KUYrJkgMl+0pLizO8h9isP93+7fn77YRGkLkUoRmNqDEmxmVUfnya2527ReVfPnzkWIb6AJvPn1jjDZQBoRH1H0VEkpwWk0X5MASOvuhwWWC35zK7yvb19l3rvZbmp+YDFYwFR7/uOl2RBYe0O3+uwAlBYTCkkES8JFKeT5M0ztC4gGrf966NrEed5TYFoAeZxo8bPoQBADfGht/96WhukeuJ5Hqjz2pmcILEcCyzMKBBqgx6hrlLU0lW4uuKaIzC/ZjBHgZvln2AcHHuh8FzdIkNYxTSYAhM8hSF6TJZ0dIFAKQALcCJgKYavIa3djtefcoMBGWr3Xoi8CWyIcYW8fsqAt5w4furrDAMzvojqqphGJwuUVS6riyOSZBJWDtU7QIQRNF4EYFMYKwFQCkOZaDKZK7MTcEIHJM0KCKMDCzJEMbHZFkGFAHX1z7mnd1wWhkUR/QgygooZtBb9xJ2AUMYo8lJOwJxRJL1T0OmqLi31h2Nafle2wvVOdUvuQtLXOcvzqEK5LBRIq/MBFk9yh4zSlAEX2VCTLTJjjiBE+4PxuIbkqoCxozX1buDk9HOq/zlq4mJu7Hmg7k7dlhxHDaQWDyRygtAIElVVE1N7W8+PH9y8Kvp2EhdAq2udCQSIC+P0ocgMKSHS6frduiP4cWEJ4caHWV9PkvbnNi9LskRMZWfPE/eiWdaGr1vJxIMRaAUjQGg6Rrd/NQINR1QeGVZQBHdIqhvVe6PytKycLz8WCZ/Ai8kR+OSohoMiCwpGIakK93VofvMUJDu0BVWvbQib7Bq687jDc/uTa36XOeFI/6PUIAfctkx3Loe3ZmUXbHYkAKFSJxL6yXV9dcNsP1JbfZuLIyu/dp03lfh09/Dy/eW93/WBDmwhrI9JZhze3FfaFJzO5u3FT7NMDZJkHSSIisLK+MSf+ZWMHJmSjJ6SGuY/LmljSAJ9JUDtTP48qfPt7xe81pRke/vSWR+5vpEsGM2FNqSVWCx28OR2+z6UGS1mzZKP/4OV5Y9F1qZ5jmpqWIfRVNwz3Cvx+0pcG17cExIUZSBgS6LLXspPMELWYo8MbfwR5ZZdW212OzNnwx+11p58p329081flFfvQfTXdEFKIqmxWmIomg0GvXthsNhjg0SFGoksvWfKSs73/tewdLZpZvTN3eV7kpRIehfaLsWLGP62QYAAAAASUVORK5CYII=&logoColor=white"></a>
   <a href="#"><img alt="XSLT" src="https://img.shields.io/static/v1?label=&message=XSLT&color=CCCC33"></a>
 
-
   ---
 
 - 💼 **Junior Consultant** at **Assist Consultores de Sistemas S.A.**\
@@ -504,7 +532,7 @@ Early adopter and practitioner of **Agentic Development** using modern AI IDEs:
   <a href="#"><img alt="Oracle" src="https://img.shields.io/badge/Oracle-F80000?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAGUExURf///wAAAFXC034AAAACdFJOU/8A5bcwSgAAAAlwSFlzAAAOwwAADsMBx2+oZAAAABl0RVh0U29mdHdhcmUAUGFpbnQuTkVUIDUuMS4xMhMBR3QAAAC4ZVhJZklJKgAIAAAABQAaAQUAAQAAAEoAAAAbAQUAAQAAAFIAAAAoAQMAAQAAAAMAAAAxAQIAEQAAAFoAAABphwQAAQAAAGwAAAAAAAAAo5MAAOgDAACjkwAA6AMAAFBhaW50Lk5FVCA1LjEuMTIAAAMAAJAHAAQAAAAwMjMwAaADAAEAAAABAAAABaAEAAEAAACWAAAAAAAAAAIAAQACAAQAAABSOTgAAgAHAAQAAAAwMTAwAAAAAAd3fp62zNoUAAAALklEQVQoU2NgRAMMRAkwwAFYAMEFC4EEkNSD5VFMgGokTQDDUExrMRyGBggLAABi0AC5VFQnFgAAAABJRU5ErkJggg==&logoColor=white"></a>
   <a href="#"><img alt="XSLT" src="https://img.shields.io/static/v1?label=&message=XSLT&color=CCCC33"></a>
   <a href="#"><img alt="YUI" src="https://img.shields.io/badge/YUI-7D8AA5?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAEnMAABJzAYwiuQcAAAJTSURBVDhP1VLfSxRRGD333pl1d3ay3dbNH4W5FpllWLRCpCY9+RCh9NAG/XqIilzQwlqFQrEf+NZDQaEEPZWVIpIIYhRqtBIZrWWBFW0+CCturu2uO864zjQzSNCf4DlwL3zfPefwfVysfZDV20R/Zz/78njSu/xneTckOFkm91tj6qS7Nnv8fPM51Xhzu+qWyGVwbnuOOO/c7Ej+M2jNbqlQZpU7gFZm+HI6qUjNCOqm7+zb7ZevDF4da3W1HCKEDNJMGrXvsh8xDa7jWrn7uPvllgMFNr0JJSUjEoog0hVBWifVyYNPOo469y/0xpyEkjcki8wLZUKRHmGEkHZ5TrYxjqL6bDX2HfYiFoyhpK0Ep8fOwDfiw9bmbWKsd76F5pgS0A10PDDQFKUPLtzfxHm4PYlXCQzXDaOnvRu5nlwU+3eCF3gwC8P7nnFMP/sFymgpluEA0x3SGDaN9IUp2qKmUD1dtIoI3Qwh+CKImoYaFOz1oKvyCcL3fmIlvAKykShE0KcWAD7HEjQN6p82zOnFQRg71oAMnZ+6J8A4hm9vpyClJPA2HrAAK5I6oHHaR+IknbKyNGEaGIdYKga4HdxXVVbhqs2C95QX0ZkoiquKUXSpSBemwQq50byTeTcy8q0ewSO8Lq+vSBhaYxoMTQ0lfLXHnqdmU7wckfNnPsysGwsESTgUVuPf49PESu66yl0X/Q/90kFrZV16IX2C5rFHfSN96n8fyUCTGFgvOIRClaiZtnzbghRf+tH2uW1xtY2Oxg6WnE5aGnsapdXS2gbwF40ozhRxGB3DAAAAAElFTkSuQmCC&logoColor=white"></a>
-
+  
   ---
 
 - 💼 **Analyst Developer** at **Plataforma Universidad de Pamplona**\
@@ -521,8 +549,8 @@ Early adopter and practitioner of **Agentic Development** using modern AI IDEs:
   <a href="#"><img alt="Oracle JDeveloper" src="https://img.shields.io/static/v1?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAGUExURf///wAAAFXC034AAAACdFJOU/8A5bcwSgAAAAlwSFlzAAAOwwAADsMBx2+oZAAAABl0RVh0U29mdHdhcmUAUGFpbnQuTkVUIDUuMS4xMhMBR3QAAAC4ZVhJZklJKgAIAAAABQAaAQUAAQAAAEoAAAAbAQUAAQAAAFIAAAAoAQMAAQAAAAMAAAAxAQIAEQAAAFoAAABphwQAAQAAAGwAAAAAAAAAo5MAAOgDAACjkwAA6AMAAFBhaW50Lk5FVCA1LjEuMTIAAAMAAJAHAAQAAAAwMjMwAaADAAEAAAABAAAABaAEAAEAAACWAAAAAAAAAAIAAQACAAQAAABSOTgAAgAHAAQAAAAwMTAwAAAAAAd3fp62zNoUAAAALklEQVQoU2NgRAMMRAkwwAFYAMEFC4EEkNSD5VFMgGokTQDDUExrMRyGBggLAABi0AC5VFQnFgAAAABJRU5ErkJggg==&label=&message=Oracle%20JDeveloper&color=9AB5D1&logoColor=white"></a>
   <a href="#"><img alt="PostgreSQL" src="https://img.shields.io/badge/Postgresql-4169E1?logo=postgresql&color=005C84&logoColor=white"></a>
 
-
 ---
+
 ## 📬 Let's Connect
 
 I'm open to **remote opportunities** globally. Feel free to reach out:
