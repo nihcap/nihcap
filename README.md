@@ -197,7 +197,6 @@ Early adopter and practitioner of **Agentic Development** using modern AI IDEs:
 
 - ⚡ **Folder Remix**\
   📆 2026\
-  ⬇️ [Download](https://github.com/nihcap/nihcap/releases/tag/folder-remix-v1.5.70)
   - My first Windows 11 desktop app.
   - Written in .NET 10.0
   - Folder Remix is a native Windows 11 desktop application designed to customize the icon of any folder. It is inspired by the Linux application *Iconic*, but features foreground icons preloaded offline from the *Friconix* icon library. It also supports custom text labels and custom icon resources.
